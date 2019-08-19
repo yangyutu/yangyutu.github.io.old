@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimal control on Yuguang Yang</title>
+    <link>https://yangyutu.github.io/tags/optimal-control/</link>
+    <description>Recent content in Optimal control on Yuguang Yang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://yangyutu.github.io/tags/optimal-control/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grain boundary control in colloidal self-assembly with dynamic programming</title>
+      <link>https://yangyutu.github.io/publication/tang-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yangyutu.github.io/publication/tang-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
