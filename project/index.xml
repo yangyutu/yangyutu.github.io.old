@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Yuguang Yang</title>
-    <link>https://yangyutu.github.io/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Yuguang Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 12:07:35 -0400</lastBuildDate>
     
-	<atom:link href="https://yangyutu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MultiagentDRL</title>
-      <link>https://yangyutu.github.io/project/multiagentdrl/</link>
+      <link>/project/multiagentdrl/</link>
       <pubDate>Mon, 03 Jun 2019 12:07:35 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/multiagentdrl/</guid>
+      <guid>/project/multiagentdrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DRLUniversal</title>
-      <link>https://yangyutu.github.io/project/drluniversal/</link>
+      <link>/project/drluniversal/</link>
       <pubDate>Mon, 03 Jun 2019 12:07:15 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/drluniversal/</guid>
+      <guid>/project/drluniversal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DRLmaze</title>
-      <link>https://yangyutu.github.io/project/drlmaze/</link>
+      <link>/project/drlmaze/</link>
       <pubDate>Mon, 03 Jun 2019 12:06:56 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/drlmaze/</guid>
+      <guid>/project/drlmaze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LowDModelQuad</title>
-      <link>https://yangyutu.github.io/project/lowdmodelquad/</link>
+      <link>/project/lowdmodelquad/</link>
       <pubDate>Mon, 03 Jun 2019 12:06:45 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/lowdmodelquad/</guid>
+      <guid>/project/lowdmodelquad/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>MDPmaze</title>
-      <link>https://yangyutu.github.io/project/mdpmaze/</link>
+      <link>/project/mdpmaze/</link>
       <pubDate>Mon, 03 Jun 2019 12:06:01 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/mdpmaze/</guid>
+      <guid>/project/mdpmaze/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Cargo Capture &amp; Transport via colloidal robot swarms</title>
-      <link>https://yangyutu.github.io/project/cargo/</link>
+      <link>/project/cargo/</link>
       <pubDate>Mon, 03 Jun 2019 12:05:49 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/cargo/</guid>
+      <guid>/project/cargo/</guid>
       <description>XLX      #</description>
     </item>
     
     <item>
       <title>Geometry-based Colloidal Particle Assembly</title>
-      <link>https://yangyutu.github.io/project/geometrybasedassembly/</link>
+      <link>/project/geometrybasedassembly/</link>
       <pubDate>Mon, 03 Jun 2019 12:05:49 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/geometrybasedassembly/</guid>
+      <guid>/project/geometrybasedassembly/</guid>
       <description>A novel geometry based method to control colloidal assembly structures.</description>
     </item>
     

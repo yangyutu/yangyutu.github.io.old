@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xun Tang on Yuguang Yang</title>
-    <link>https://yangyutu.github.io/authors/xun-tang/</link>
+    <link>/authors/xun-tang/</link>
     <description>Recent content in Xun Tang on Yuguang Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://yangyutu.github.io/authors/xun-tang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/xun-tang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Optimal Feedback Controlled Assembly of Perfect Crystals</title>
-      <link>https://yangyutu.github.io/publication/tang-2016/</link>
+      <link>/publication/tang-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/tang-2016/</guid>
+      <guid>/publication/tang-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controlling assembly of colloidal particles into structured objects: Basic strategy and a case study</title>
-      <link>https://yangyutu.github.io/publication/bevan-2015/</link>
+      <link>/publication/bevan-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/bevan-2015/</guid>
+      <guid>/publication/bevan-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grain boundary control in colloidal self-assembly with dynamic programming</title>
-      <link>https://yangyutu.github.io/publication/tang-2014/</link>
+      <link>/publication/tang-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/tang-2014/</guid>
+      <guid>/publication/tang-2014/</guid>
       <description></description>
     </item>
     

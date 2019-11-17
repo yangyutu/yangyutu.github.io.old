@@ -3,719 +3,729 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yangyutu.github.io/project/multiagentdrl/</loc>
+    <loc>/project/multiagentdrl/</loc>
     <lastmod>2019-06-03T12:07:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/project/</loc>
-    <lastmod>2019-06-03T12:07:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/</loc>
+    <loc>/project/</loc>
     <lastmod>2019-06-03T12:07:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/project/drluniversal/</loc>
+    <loc>/</loc>
+    <lastmod>2019-06-03T12:07:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/project/drluniversal/</loc>
     <lastmod>2019-06-03T12:07:15-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/project/drlmaze/</loc>
+    <loc>/project/drlmaze/</loc>
     <lastmod>2019-06-03T12:06:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/project/lowdmodelquad/</loc>
+    <loc>/project/lowdmodelquad/</loc>
     <lastmod>2019-06-03T12:06:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/project/mdpmaze/</loc>
+    <loc>/project/mdpmaze/</loc>
     <lastmod>2019-06-03T12:06:01-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/project/cargo/</loc>
+    <loc>/project/cargo/</loc>
     <lastmod>2019-06-03T12:05:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/project/geometrybasedassembly/</loc>
+    <loc>/project/geometrybasedassembly/</loc>
     <lastmod>2019-06-03T12:05:49-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/</loc>
-    <lastmod>2019-06-03T12:05:49-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/tags/applied-math/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-06-03T12:05:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/chemical-physics/</loc>
+    <loc>/tags/applied-math/</loc>
     <lastmod>2019-06-03T12:05:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/geometry/</loc>
+    <loc>/tags/chemical-physics/</loc>
     <lastmod>2019-06-03T12:05:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/math-modeling/</loc>
+    <loc>/tags/geometry/</loc>
     <lastmod>2019-06-03T12:05:49-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication_types/2/</loc>
+    <loc>/tags/math-modeling/</loc>
+    <lastmod>2019-06-03T12:05:49-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/bo-li/</loc>
+    <loc>/authors/bo-li/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/online-2019/</loc>
+    <loc>/publication/online-2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication_types/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/publication/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/authors/xi-qiao-feng/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/yan-liu/</loc>
+    <loc>/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xi-qiao-feng/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/yuguang-yang/</loc>
+    <loc>/authors/yan-liu/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/financebook/</loc>
+    <loc>/authors/yuguang-yang/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/bio/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/mathbook/</loc>
+    <loc>/misc/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publications/</loc>
+    <loc>/financebook/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/research/</loc>
+    <loc>/mathbook/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/1/</loc>
+    <loc>/publications/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/research/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/1/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/3-such-self/</loc>
+    <loc>/tags/3-such-self/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/bradley-rupp/</loc>
+    <loc>/authors/bradley-rupp/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/torres-d-iaz-2018/</loc>
+    <loc>/publication/torres-d-iaz-2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/isaac-torres-d%C3%ADaz/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/authors/michael-a-bevan/</loc>
+    <loc>/authors/isaac-torres-d%C3%ADaz/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/michael-a.-bevan/</loc>
+    <loc>/authors/michael-a-bevan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/yang-2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/tags/active-colloids/</loc>
+    <loc>/authors/michael-a.-bevan/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/bacteria-and-sperm/</loc>
+    <loc>/publication/yang-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/active-colloids/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/fabricate-synthetic-self-propelled-particles/</loc>
+    <loc>/tags/bacteria-and-sperm/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/feedback-control/</loc>
+    <loc>/tags/fabricate-synthetic-self-propelled-particles/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/fi-rst-passage-time/</loc>
+    <loc>/tags/feedback-control/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/fractal-mazes/</loc>
+    <loc>/tags/fi-rst-passage-time/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/have-been-made-to/</loc>
+    <loc>/tags/fractal-mazes/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/markov-decision-process/</loc>
+    <loc>/tags/have-been-made-to/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/microscopic-swimmers/</loc>
+    <loc>/tags/markov-decision-process/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/nspired-by-the-natural/</loc>
+    <loc>/tags/microscopic-swimmers/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/recent-e-ff-orts/</loc>
+    <loc>/tags/nspired-by-the-natural/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/such-as/</loc>
+    <loc>/tags/recent-e-ff-orts/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/chen-2017/</loc>
+    <loc>/tags/such-as/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/chen-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/brian-s.-caffo/</loc>
+    <loc>/authors/brian-s.-caffo/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/meng-2017/</loc>
+    <loc>/publication/meng-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/gregg-duncan/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/tags/high-dimension/</loc>
+    <loc>/authors/gregg-duncan/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/howard-fairbrother/</loc>
+    <loc>/tags/high-dimension/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/image-processing/</loc>
+    <loc>/authors/howard-fairbrother/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/di-2017/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/publication/yang-2017/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/authors/jia-meng/</loc>
+    <loc>/tags/image-processing/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/jinghan-su/</loc>
+    <loc>/publication/di-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/yang-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jia-meng/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/joshua-t.-vogelstein/</loc>
+    <loc>/authors/jinghan-su/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/julie-l-bitter/</loc>
+    <loc>/authors/joshua-t.-vogelstein/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/kai-liu/</loc>
+    <loc>/authors/julie-l-bitter/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/martin-lindquist/</loc>
+    <loc>/authors/kai-liu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/parameter-estimation/</loc>
+    <loc>/authors/martin-lindquist/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/pengcheng-zhang/</loc>
+    <loc>/tags/parameter-estimation/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/qingshuo-meng/</loc>
+    <loc>/authors/pengcheng-zhang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/rod-di/</loc>
+    <loc>/authors/qingshuo-meng/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/seonjoo-lee/</loc>
+    <loc>/authors/rod-di/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/shaojie-chen/</loc>
+    <loc>/authors/seonjoo-lee/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/state-space-model/</loc>
+    <loc>/authors/shaojie-chen/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/time-series-analysis/</loc>
+    <loc>/tags/state-space-model/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/wei-ran/</loc>
+    <loc>/tags/time-series-analysis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/yaping-li/</loc>
+    <loc>/authors/wei-ran/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/yuting-xu/</loc>
+    <loc>/authors/yaping-li/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/equal-contribution/</loc>
+    <loc>/authors/yuting-xu/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/equal-contribution/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/david-m.-ford/</loc>
+    <loc>/authors/david-m.-ford/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/yang-2016/</loc>
+    <loc>/publication/yang-2016/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/martha-a-grover/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/publication/tang-2016/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/authors/raghuram-thyagarajan/</loc>
+    <loc>/authors/martha-a-grover/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/tara-d-edwards/</loc>
+    <loc>/publication/tang-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/raghuram-thyagarajan/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/xun-tang/</loc>
+    <loc>/authors/tara-d-edwards/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/colloidal-assembly/</loc>
+    <loc>/authors/xun-tang/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/con-fi-gurations-could/</loc>
+    <loc>/tags/colloidal-assembly/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/enable-metamaterials-with-exotic/</loc>
+    <loc>/tags/con-fi-gurations-could/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/energy-landscapes/</loc>
+    <loc>/tags/enable-metamaterials-with-exotic/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/low-dimensional-models/</loc>
+    <loc>/tags/energy-landscapes/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/microparticle-compo/</loc>
+    <loc>/tags/low-dimensional-models/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/nents-into-perfectly-ordered/</loc>
+    <loc>/tags/microparticle-compo/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/properties-that-are/</loc>
+    <loc>/tags/nents-into-perfectly-ordered/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/ssembling-colloidal-nano-and/</loc>
+    <loc>/tags/properties-that-are/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/stochastic-ensemble-control/</loc>
+    <loc>/tags/ssembling-colloidal-nano-and/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/benjamin-shapiro/</loc>
+    <loc>/tags/stochastic-ensemble-control/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/benjamin-shapiro/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/colloidal-particles/</loc>
+    <loc>/tags/colloidal-particles/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/bevan-2015/</loc>
+    <loc>/publication/bevan-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/diffusion-map/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/authors/dimitrios-maroudas/</loc>
+    <loc>/tags/diffusion-map/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/markov-decision-processes/</loc>
+    <loc>/authors/dimitrios-maroudas/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/martha-a.-grover/</loc>
+    <loc>/tags/markov-decision-processes/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/yang-2015/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/authors/ray-m.-sehgal/</loc>
+    <loc>/authors/martha-a.-grover/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/edwards-2015/</loc>
+    <loc>/publication/yang-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/self-assembly/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/tags/smoluchowski-equation/</loc>
+    <loc>/authors/ray-m.-sehgal/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/w-neil-everett/</loc>
+    <loc>/publication/edwards-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/self-assembly/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/patterned-excluded-volume/</loc>
+    <loc>/tags/smoluchowski-equation/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/reconfigurable-colloidal-assembly/</loc>
+    <loc>/authors/w-neil-everett/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/tunable-depletion-attraction/</loc>
+    <loc>/tags/patterned-excluded-volume/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/edwards-2014/</loc>
+    <loc>/tags/reconfigurable-colloidal-assembly/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tunable-depletion-attraction/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/edwards-2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/control-applications/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/authors/daniel-j.-beltran-villegas/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/publication/tang-2014/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/tags/markov-processes/</loc>
+    <loc>/tags/control-applications/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/tags/optimal-control/</loc>
+    <loc>/authors/daniel-j.-beltran-villegas/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/tara-d.-edwards/</loc>
+    <loc>/publication/tang-2014/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/markov-processes/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/changyou-gao/</loc>
+    <loc>/tags/optimal-control/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/tara-d.-edwards/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/changyou-gao/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/he-wuliyasu/</loc>
+    <loc>/authors/he-wuliyasu/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/jindan-wu/</loc>
+    <loc>/authors/jindan-wu/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/lulu-han/</loc>
+    <loc>/authors/lulu-han/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/publication/han-2012/</loc>
+    <loc>/publication/han-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/xiao-gong/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/authors/zhengwei-mao/</loc>
+    <loc>/authors/xiao-gong/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yangyutu.github.io/categories/</loc>
+    <loc>/authors/zhengwei-mao/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/post/</loc>
+    <loc>/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://yangyutu.github.io/talk/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
   </url>
   
 </urlset>

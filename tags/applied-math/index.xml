@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>applied math on Yuguang Yang</title>
-    <link>https://yangyutu.github.io/tags/applied-math/</link>
+    <link>/tags/applied-math/</link>
     <description>Recent content in applied math on Yuguang Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 12:05:49 -0400</lastBuildDate>
     
-	<atom:link href="https://yangyutu.github.io/tags/applied-math/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/applied-math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Geometry-based Colloidal Particle Assembly</title>
-      <link>https://yangyutu.github.io/project/geometrybasedassembly/</link>
+      <link>/project/geometrybasedassembly/</link>
       <pubDate>Mon, 03 Jun 2019 12:05:49 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/geometrybasedassembly/</guid>
+      <guid>/project/geometrybasedassembly/</guid>
       <description>A novel geometry based method to control colloidal assembly structures.</description>
     </item>
     

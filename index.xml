@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuguang Yang</title>
-    <link>https://yangyutu.github.io/</link>
+    <link>/</link>
     <description>Recent content on Yuguang Yang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 12:07:35 -0400</lastBuildDate>
     
-	    <atom:link href="https://yangyutu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MultiagentDRL</title>
-      <link>https://yangyutu.github.io/project/multiagentdrl/</link>
+      <link>/project/multiagentdrl/</link>
       <pubDate>Mon, 03 Jun 2019 12:07:35 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/multiagentdrl/</guid>
+      <guid>/project/multiagentdrl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DRLUniversal</title>
-      <link>https://yangyutu.github.io/project/drluniversal/</link>
+      <link>/project/drluniversal/</link>
       <pubDate>Mon, 03 Jun 2019 12:07:15 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/drluniversal/</guid>
+      <guid>/project/drluniversal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DRLmaze</title>
-      <link>https://yangyutu.github.io/project/drlmaze/</link>
+      <link>/project/drlmaze/</link>
       <pubDate>Mon, 03 Jun 2019 12:06:56 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/drlmaze/</guid>
+      <guid>/project/drlmaze/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LowDModelQuad</title>
-      <link>https://yangyutu.github.io/project/lowdmodelquad/</link>
+      <link>/project/lowdmodelquad/</link>
       <pubDate>Mon, 03 Jun 2019 12:06:45 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/lowdmodelquad/</guid>
+      <guid>/project/lowdmodelquad/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/VWdS5mQNw9E&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -54,10 +54,10 @@
     
     <item>
       <title>MDPmaze</title>
-      <link>https://yangyutu.github.io/project/mdpmaze/</link>
+      <link>/project/mdpmaze/</link>
       <pubDate>Mon, 03 Jun 2019 12:06:01 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/mdpmaze/</guid>
+      <guid>/project/mdpmaze/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/b8yFWW_sRZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title>Cargo Capture &amp; Transport via colloidal robot swarms</title>
-      <link>https://yangyutu.github.io/project/cargo/</link>
+      <link>/project/cargo/</link>
       <pubDate>Mon, 03 Jun 2019 12:05:49 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/cargo/</guid>
+      <guid>/project/cargo/</guid>
       <description>
 
 
@@ -79,7 +79,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://yangyutu.github.io/img/image.JPG&#34; /&gt;
+&lt;img src=&#34;/img/image.JPG&#34; /&gt;
 
 
 
@@ -90,9 +90,9 @@
 
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://yangyutu.github.io/img/image.JPG&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/image.JPG&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://yangyutu.github.io/static/img/image.JPG&#34; alt=&#34;where is the image 2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/static/img/image.JPG&#34; alt=&#34;where is the image 2&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -122,10 +122,10 @@
     
     <item>
       <title>Geometry-based Colloidal Particle Assembly</title>
-      <link>https://yangyutu.github.io/project/geometrybasedassembly/</link>
+      <link>/project/geometrybasedassembly/</link>
       <pubDate>Mon, 03 Jun 2019 12:05:49 -0400</pubDate>
       
-      <guid>https://yangyutu.github.io/project/geometrybasedassembly/</guid>
+      <guid>/project/geometrybasedassembly/</guid>
       <description>&lt;p&gt;The ability to create multi-scale, periodic colloidal assemblies with unique properties is important to
 emerging applications. Dynamically manipulating colloidal structures via tunable kT-scale attraction
 can provide the opportunity to create particle-based nano- and microstructured materials that are
@@ -149,19 +149,37 @@ multiple lengths scales and on arbitrary pre-defined pattern templates.&lt;/p&gt
     
     <item>
       <title>Collective oscillation in dense suspension of self-propelled chiral rods</title>
-      <link>https://yangyutu.github.io/publication/online-2019/</link>
+      <link>/publication/online-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/online-2019/</guid>
+      <guid>/publication/online-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/bio/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/bio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/misc/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/misc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Finance Book</title>
-      <link>https://yangyutu.github.io/financebook/</link>
+      <link>/financebook/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/financebook/</guid>
+      <guid>/financebook/</guid>
       <description>
 
 &lt;h2 id=&#34;foundation-of-mathematical-finance&#34;&gt;Foundation of Mathematical Finance&lt;/h2&gt;
@@ -173,12 +191,12 @@ multiple lengths scales and on arbitrary pre-defined pattern templates.&lt;/p&gt
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://yangyutu.github.io/img/robot/AIicon.png&#34; /&gt;
+&lt;img src=&#34;/img/robot/AIicon.png&#34; /&gt;
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://yangyutu.github.io/files/financeBook.pdf&#34; target=&#34;_blank&#34;&gt;Download the whole book&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/files/financeBook.pdf&#34; target=&#34;_blank&#34;&gt;Download the whole book&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;i-mathematical-foundations&#34;&gt;I Mathematical Foundations&lt;/h4&gt;
 
@@ -236,10 +254,10 @@ multiple lengths scales and on arbitrary pre-defined pattern templates.&lt;/p&gt
     
     <item>
       <title>Math Book</title>
-      <link>https://yangyutu.github.io/mathbook/</link>
+      <link>/mathbook/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/mathbook/</guid>
+      <guid>/mathbook/</guid>
       <description>
 
 &lt;h2 id=&#34;essential-mathematical-modeling-methods&#34;&gt;Essential Mathematical Modeling Methods&lt;/h2&gt;
@@ -251,12 +269,12 @@ multiple lengths scales and on arbitrary pre-defined pattern templates.&lt;/p&gt
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://yangyutu.github.io/img/robot/AIicon.png&#34; /&gt;
+&lt;img src=&#34;/img/robot/AIicon.png&#34; /&gt;
 
 
 &lt;/figure&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://yangyutu.github.io/files/MathBook.pdf&#34; target=&#34;_blank&#34;&gt;Download the whole book&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/files/MathBook.pdf&#34; target=&#34;_blank&#34;&gt;Download the whole book&lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&#34;i-mathematical-foundations&#34;&gt;I Mathematical Foundations&lt;/h4&gt;
 
@@ -334,10 +352,10 @@ multiple lengths scales and on arbitrary pre-defined pattern templates.&lt;/p&gt
     
     <item>
       <title>Publications</title>
-      <link>https://yangyutu.github.io/publications/</link>
+      <link>/publications/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publications/</guid>
+      <guid>/publications/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=OhoBnX8AAAAJ&amp;amp;hl=zh-CN&#34; target=&#34;_blank&#34;&gt;Google Scholar Profile&lt;/a&gt;&lt;/p&gt;
@@ -346,36 +364,38 @@ multiple lengths scales and on arbitrary pre-defined pattern templates.&lt;/p&gt
 
 &lt;ul&gt;
 &lt;li&gt;Cargo Capture and Transport via Optimally Controlled Self-Propelled Colloidal Motors Swarms. &lt;br /&gt;
-Y Yang, M Bevan. &lt;a href=&#34;https://yangyutu.github.io/files/yang%20cargo%20ms%203.3.docx&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Optimal Navigation of Self-Propelled Colloids in Microstructured Mazes. &lt;br /&gt;
-Y Yang, M Bevan. To be submitted.&lt;/li&gt;
-&lt;li&gt;Colloidal Rod Motion Near a Planar Wall: A Constraint Stokesian Dyanmics Simulation Approach. &lt;br /&gt;
-Y Yang, MA Bevan. To be submitted.&lt;/li&gt;
-&lt;li&gt;Hierarchical assembly of anisotropic particles in AC electric fields. &lt;br /&gt;
-I Torres Diaz, B Rupp, Y Yang, MA Bevan. To be submitted.&lt;/li&gt;
+Y Yang, M Bevan. &lt;a href=&#34;/files/yang%20cargo%20ms%203.3.docx&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Optimal Navigation of Self-Propelled Colloids &lt;br /&gt;
+Y Yang, M Bevan. ACS Nano2018,12,11,10712-10724
+&lt;a href=&#34;/files/optimal%20navigation%20of%20self-propelled%20colloids.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Interfacial colloidal rod dynamics: Coefficients, simulations, and analysis &lt;br /&gt;
+Y Yang, MA Bevan. The Journal of Chemical Physics 147, 054902 (2017)
+&lt;a href=&#34;/files/Interfacial%20colloidal%20rod%20dynamics%20Coefficients,%20simulations,.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Energy landscapes for ellipsoids in non-uniform &lt;br /&gt;
+I Torres Diaz, B Rupp, Y Yang, MA Bevan.  Soft Matter, 2018, 14, 934 &lt;a href=&#34;/files/Energy%20landscapes%20for%20ellipsoids%20in%20non-uniform.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Optimal Feedback Controlled Assembly of Perfect Crystals. &lt;br /&gt;
-X Tang&lt;em&gt;, B Rupp&lt;/em&gt;, Y Yang*, TD Edwards, MA Grover, MA Bevan. ACS nano(2016)&lt;/li&gt;
+X Tang&lt;em&gt;, B Rupp&lt;/em&gt;, Y Yang*, TD Edwards, MA Grover, MA Bevan. ACS nano(2016) &lt;a href=&#34;/files/Optimal%20Feedback%20Controlled%20Assembly%20of%20Perfect%20Crystals.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Dynamic colloidal assembly pathways via low dimensional models. &lt;br /&gt;
-Y Yang, R Thyagarajan, DM Ford, MA Bevan. The Journal of chemical physics (2016)&lt;/li&gt;
+Y Yang, R Thyagarajan, DM Ford, MA Bevan. The Journal of chemical physics (2016) &lt;a href=&#34;/files/Dynamic%20colloidal%20assembly%20pathways%20via%20low%20dimensional%20models.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;An M-Estimator for Reduced-Rank High-Dimensional Linear Dynamical System Identification. &lt;br /&gt;
-S Chen, K Liu, Y Yang, Y Xu, S Lee, M Lindquist, BS Caffo, JT Vogelstein. arXiv preprint arXiv:1509.03927(2015)&lt;/li&gt;
+S Chen, K Liu, Y Yang, Y Xu, S Lee, M Lindquist, BS Caffo, JT Vogelstein. arXiv preprint arXiv:1509.03927(2015) &lt;a href=&#34;/files/An%20M-estimator%20for%20reduced-rank%20system%20identification.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Reconfigurable multi-scale colloidal assembly on excluded volume patterns. &lt;br /&gt;
-TD Edwards, Y Yang, WN Everett, MA Bevan. Scientific reports (2015)&lt;/li&gt;
+TD Edwards, Y Yang, WN Everett, MA Bevan. Scientific reports (2015) &lt;a href=&#34;/files/Reconfgurable%20multi-scale%20colloidal%20assembly%20on%20excluded%20volume%20patterns.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Modeling depletion mediated colloidal assembly on topographical patterns. &lt;br /&gt;
-Y Yang, TD Edwards, MA Bevan. Journal of colloid and interface science(2015)&lt;/li&gt;
+Y Yang, TD Edwards, MA Bevan. Journal of colloid and interface science(2015) &lt;a href=&#34;/files/Modeling%20depletion%20mediated%20colloidal%20assembly%20on%20topographical.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;colloidal-dynamics-study&#34;&gt;Colloidal Dynamics Study&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Controlling assembly of colloidal particles into structured objects: Basic strategy and a case study &lt;br /&gt;
-MA Bevan, DM Ford, MA Grover, B Shapiro, D Maroudas, Y Yang, et al. Journal of Process Control(2015)&lt;/li&gt;
+MA Bevan, DM Ford, MA Grover, B Shapiro, D Maroudas, Y Yang, et al. Journal of Process Control(2015) &lt;a href=&#34;/files/Controlling%20assembly%20of%20colloidal%20particles%20into%20structured%20objects.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Colloidal crystal grain boundary formation and motion. &lt;br /&gt;
-TD Edwards&lt;em&gt;, Y Yang&lt;/em&gt;, DJ Beltran-Villegas, MA Bevan. Scientific reports(2014)&lt;/li&gt;
+TD Edwards&lt;em&gt;, Y Yang&lt;/em&gt;, DJ Beltran-Villegas, MA Bevan. Scientific reports(2014) &lt;a href=&#34;/files/Colloidal%20crystal%20grain%20boundary%20formation%20and%20motion.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Grain boundary control in colloidal self-assembly with dynamic programming. &lt;br /&gt;
-X Tang, Y Yang, MA Bevan, MA Grover. 2014American Control Conference(2014) &lt;a href=&#34;https://yangyutu.github.io/files/Grain%20Boundary%20Control%20in%20Colloidal%20Self-Assembly%20with%20Dynamic%20Programming.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
+X Tang, Y Yang, MA Bevan, MA Grover. 2014 American Control Conference(2014) &lt;a href=&#34;/files/Grain%20Boundary%20Control%20in%20Colloidal%20Self-Assembly%20with%20Dynamic%20Programming.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Modulating the structure and properties of poly (sodium 4-styrenesulfonate)/poly (diallyldimethylammonium chloride) multilayers with concentrated salt solutions. &lt;br /&gt;
-L Han, Z Mao, H Wuliyasu, J Wu, X Gong, Y Yang, C Gao. Langmuir (2011)&lt;/li&gt;
+L Han, Z Mao, H Wuliyasu, J Wu, X Gong, Y Yang, C Gao. Langmuir (2011) &lt;a href=&#34;/files/Modulating%20the%20Structure%20and%20Properties%20of%20Poly.pdf&#34; target=&#34;_blank&#34;&gt;PDF&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&#34;conference-presentations&#34;&gt;Conference Presentations&lt;/h4&gt;
@@ -401,10 +421,10 @@ Mid-Atlantic Soft Matter Workshop, 2014&lt;/li&gt;
     
     <item>
       <title>Research Summary</title>
-      <link>https://yangyutu.github.io/research/</link>
+      <link>/research/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/research/</guid>
+      <guid>/research/</guid>
       <description>
 
 &lt;p&gt;My research areas involve the following areas:&lt;/p&gt;
@@ -426,7 +446,7 @@ Mid-Atlantic Soft Matter Workshop, 2014&lt;/li&gt;
 
 &lt;figure&gt;
 
-&lt;img src=&#34;https://yangyutu.github.io/img/robot/AIicon.png&#34; /&gt;
+&lt;img src=&#34;/img/robot/AIicon.png&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -441,127 +461,127 @@ Mid-Atlantic Soft Matter Workshop, 2014&lt;/li&gt;
     
     <item>
       <title>Energy landscapes for ellipsoids in non-uniform AC electric fields</title>
-      <link>https://yangyutu.github.io/publication/torres-d-iaz-2018/</link>
+      <link>/publication/torres-d-iaz-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/torres-d-iaz-2018/</guid>
+      <guid>/publication/torres-d-iaz-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Navigation of Self-Propelled Colloids</title>
-      <link>https://yangyutu.github.io/publication/yang-2018/</link>
+      <link>/publication/yang-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/yang-2018/</guid>
+      <guid>/publication/yang-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An M-estimator for reduced-rank system identification</title>
-      <link>https://yangyutu.github.io/publication/chen-2017/</link>
+      <link>/publication/chen-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/chen-2017/</guid>
+      <guid>/publication/chen-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chemical antagonism between photodynamic agents and chemotherapeutics: Mechanism and avoidance</title>
-      <link>https://yangyutu.github.io/publication/meng-2017/</link>
+      <link>/publication/meng-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/meng-2017/</guid>
+      <guid>/publication/meng-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interfacial and Confined Colloidal Rod Diffusion</title>
-      <link>https://yangyutu.github.io/publication/di-2017/</link>
+      <link>/publication/di-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/di-2017/</guid>
+      <guid>/publication/di-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interfacial colloidal rod dynamics : Coefficients , simulations , and analysis</title>
-      <link>https://yangyutu.github.io/publication/yang-2017/</link>
+      <link>/publication/yang-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/yang-2017/</guid>
+      <guid>/publication/yang-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic colloidal assembly pathways via low dimensional models</title>
-      <link>https://yangyutu.github.io/publication/yang-2016/</link>
+      <link>/publication/yang-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/yang-2016/</guid>
+      <guid>/publication/yang-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Feedback Controlled Assembly of Perfect Crystals</title>
-      <link>https://yangyutu.github.io/publication/tang-2016/</link>
+      <link>/publication/tang-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/tang-2016/</guid>
+      <guid>/publication/tang-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controlling assembly of colloidal particles into structured objects: Basic strategy and a case study</title>
-      <link>https://yangyutu.github.io/publication/bevan-2015/</link>
+      <link>/publication/bevan-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/bevan-2015/</guid>
+      <guid>/publication/bevan-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling depletion mediated colloidal assembly on topographical patterns</title>
-      <link>https://yangyutu.github.io/publication/yang-2015/</link>
+      <link>/publication/yang-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/yang-2015/</guid>
+      <guid>/publication/yang-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reconfigurable multi-scale colloidal assembly on excluded volume patterns</title>
-      <link>https://yangyutu.github.io/publication/edwards-2015/</link>
+      <link>/publication/edwards-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/edwards-2015/</guid>
+      <guid>/publication/edwards-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Colloidal crystal grain boundary formation and motion</title>
-      <link>https://yangyutu.github.io/publication/edwards-2014/</link>
+      <link>/publication/edwards-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/edwards-2014/</guid>
+      <guid>/publication/edwards-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Grain boundary control in colloidal self-assembly with dynamic programming</title>
-      <link>https://yangyutu.github.io/publication/tang-2014/</link>
+      <link>/publication/tang-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/tang-2014/</guid>
+      <guid>/publication/tang-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modulating the Structure and Properties of Poly(sodium 4-styrenesulfonate)/Poly(diallyldimethylammonium chloride) Multilayers with Concentrated Salt Solutions</title>
-      <link>https://yangyutu.github.io/publication/han-2012/</link>
+      <link>/publication/han-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://yangyutu.github.io/publication/han-2012/</guid>
+      <guid>/publication/han-2012/</guid>
       <description></description>
     </item>
     
