@@ -336,24 +336,6 @@
     </item>
     
     <item>
-      <title>Self-assembly</title>
-      <link>/tags/self-assembly/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/self-assembly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smoluchowski equation</title>
-      <link>/tags/smoluchowski-equation/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/smoluchowski-equation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>patterned excluded volume</title>
       <link>/tags/patterned-excluded-volume/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -368,6 +350,24 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/reconfigurable-colloidal-assembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-assembly</title>
+      <link>/tags/self-assembly/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/self-assembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smoluchowski equation</title>
+      <link>/tags/smoluchowski-equation/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/smoluchowski-equation/</guid>
       <description></description>
     </item>
     
