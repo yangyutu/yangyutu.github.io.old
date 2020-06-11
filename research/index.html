@@ -92,7 +92,7 @@
     
     
     
-    <link rel="stylesheet" href="/css/academic.799f6db49de4bdba234e41730f511619.css">
+    <link rel="stylesheet" href="/css/academic.a16f7eaef725094b5568878177a3ee8a.css">
   
 
   
@@ -117,7 +117,7 @@
   
   <meta property="og:site_name" content="Yuguang Yang">
   <meta property="og:url" content="/research/">
-  <meta property="og:title" content="Research Summary | Yuguang Yang">
+  <meta property="og:title" content="Research | Yuguang Yang">
   <meta property="og:description" content="Here we describe how to add a page to your site."><meta property="og:image" content="/img/image.jpg">
   <meta property="og:locale" content="en-us">
   
@@ -130,7 +130,7 @@
 
   
 
-  <title>Research Summary | Yuguang Yang</title>
+  <title>Research | Yuguang Yang</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -260,39 +260,6 @@
         
         
         
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#projects">
-            
-            <span>Projects</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
 
         <li class="nav-item">
           <a class="nav-link  active" href="/research/">
@@ -383,30 +350,6 @@
         
         
 
-        
-
-        
-        
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/misc">
-            
-            <span>Misc</span>
-            
-          </a>
-        </li>
-
-        
-        
-
       
       </ul>
       <ul class="navbar-nav ml-auto">
@@ -465,7 +408,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Research Summary</h1>
+  <h1 itemprop="name">Research</h1>
 
   
 
@@ -526,17 +469,24 @@
     <div class="article-style" itemprop="articleBody">
       
 
-<p>My research areas involve the following areas:</p>
+<h2 id="research-areas">Research Areas</h2>
 
 <ul>
-<li>Artificial intelligence (AI) for active physical systems</li>
-<li>Deep reinforcement learning (DRL) algorithms</li>
-<li>Mathematical models for high dimensional stochastic systems</li>
-<li>AI for Finanical engineering</li>
-<li>Chemical physics for active physical system</li>
+<li><a href="#robotAI">Applied AI Algorithms for Micro/Nano-Robot Systems</a>
+
+<ul>
+<li><a href="#robotAI-SingleAgent">Single-agent Systems</a></li>
+<li><a href="#robotAI-MultiAgent2D">Multi-agent Systems (2D)</a></li>
+<li><a href="#robotAI-MultiAgent3D">Multi-agent Systems (3D)</a></li>
+<li><a href="#robotAI-DistributedMultiAgent">Distributed Multi-agent Systems</a></li>
+</ul></li>
+<li><a href="#AIAlgo">Deep reinforcement learning algorithms</a></li>
+<li><a href="#StochSystem">Applied optimal control and estimation in stochastic systems</a></li>
+<li><a href="#SimulationAlgo">Novel simulation algorithms for stochastic physical systems</a></li>
+<li><a href="#StochPhysicalSystem">Modeling stochastic physical systems</a></li>
 </ul>
 
-<h2 id="ai-for-colloidal-robots">AI for colloidal robots</h2>
+<h3 id="ai-for-colloidal-robots-a-name-robotai-a">AI for colloidal robots <a name="robotAI"></a></h3>
 
 
 
@@ -545,16 +495,145 @@
 
 <figure>
 
-<img src="/img/robot/AIicon.png" />
+<img src="/img/robot/AIicon2.png" />
 
 
 </figure>
 
-<p>Equipping micro-/nanoscale colloidal robots with artificial intelligence such that they can efficiently navigate in unknown complex environments could dramatically impact their use in emerging applications like precision surgery and targeted drug delivery. Here we develop a model-free deep reinforcement learning algorithm that can train colloidal robots to learn effective navigation strategies in unknown environments with random obstacles. We employed a deep neural network archecture that enables the robot to mimic animal navigation decision-making by directly processing raw sensor input and decomposing long-range navigations to short-range ones. We show that trained robot agents learn to make navigation decisions regarding both obstacle avoidance and travel time minimization, based solely on local sensory inputs without prior knowledge of the global environment. Such agents with biologically inspired mechanisms can acquire competitive navigation capabilities in large-scale, complex environments containing obstacles of diverse shapes, sizes, and configurations. This study illustrates the potential of artificial intelligence to enable colloidal robots in extensive applications.</p>
+<h4 id="single-agent-system-a-name-robotai-singleagent-a">Single-agent System<a name="robotAI-SingleAgent"></a></h4>
 
-/project/multiagentdrl/
 
-<h2 id="drl-algorithms">DRL algorithms</h2>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/b8yFWW_sRZU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>Equipping micro-/nanoscale colloidal robots with artificial intelligence such that they can efficiently navigate in unknown complex environments could dramatically impact their use in emerging applications like precision surgery and targeted drug delivery. Here we develop a model-free deep reinforcement learning algorithm that can train colloidal robots to learn effective navigation strategies in unknown environments with random obstacles. We employed a deep neural network archecture that enables the robot to mimic animal navigation decision-making by directly processing raw sensor input and decomposing long-range navigations to short-range ones. We show that trained robot agents learn to make navigation decisions regarding both obstacle avoidance and travel time minimization, based solely on local sensory inputs without prior knowledge of the global environment. Such agents with biologically inspired mechanisms can acquire competitive navigation capabilities in large-scale, complex environments containing obstacles of diverse shapes, sizes, and configurations. This study illustrates the potential of artificial intelligence to enable colloidal robots in extensive applications.
+
+
+
+  
+
+<figure>
+
+<img src="/img/robot/DRLInterpretation.jpg" />
+
+
+</figure></p>
+
+<h4 id="multi-agent-system-in-2d-a-name-robotai-multiagent2d-a">Multi-agent System in 2D <a name="robotAI-MultiAgent2D"></a></h4>
+
+<p>Controlling active colloidal particle swarms could enable useful microscopic functions in emerging applications at the interface of nanotechnology and robotics. Here, we present a computational study of controlling self-propelled colloidal particle propulsion speeds to cooperatively capture and transport cargo particles, which otherwise produce random dispersions. By sensing swarm and cargo coordinates, each particle’s speed is actuated according to a control policy based on multiagent assignment and path planning strategies that navigate stochastic particle trajectories to targets around cargo. Colloidal swarms are shown to dynamically cage cargo at their center via inward radial forces while simultaneously translating via directional forces. Speed, power, and efficiency of swarm tasks display emergent coupled dependences on swarm size and pair interactions and approach asymptotic limits indicating near-optimal performance. This scheme exploits unique interactions and stochastic dynamics in colloidal swarms to capture and transport microscopic cargo in a robust, stable, error-tolerant, and dynamic manner.</p>
+
+
+
+
+  
+
+<figure>
+
+<img src="/img/robot/antMultiagent_demo.jpg" />
+
+
+</figure>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/ofibeCz5QM4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<h4 id="multi-agent-system-in-3d-a-name-robotai-multiagent3d-a">Multi-agent System in 3D <a name="robotAI-MultiAgent3D"></a></h4>
+
+<p>Designing intelligent nano-robots that can autonomously navigate in complex and crowded environments such as tissues and blood vessels can offer tremendous possibilities in biomedical applications. Here we report a hierarchical control scheme that enables a nano-robot to efficiently navigate in a blood environment. Our control scheme consists of a high-level controller setting short-ranged dynamic targets to guide the robot to follow a desired path and a low-level deep reinforcement learning controller (DRL) responsible for navigating towards to these dynamic guiding targets. The DRL controller minimally mimics the visual navigation of intelligent species and maps a coarse 3D sensation of the robot’s local environment to control decisions. From extensive navigation data,  the DRL controller is capable of learning competitive, robust, generalizable navigation strategies in free space and in confined environments with red blood cells. Once deployed in blood vessels, the controlled robot can efficiently navigate in blood vessels with different concentrations, vessel size, and RBC configurations. This study identifies the key elements in designing control systems for autonomous nanorobots and illustrates the potential of artificial intelligence for biomedical applications.
+
+
+
+  
+
+<figure>
+
+<img src="/img/robot/robotBloodDemo.jpg" />
+
+
+</figure></p>
+
+<h4 id="distributed-multi-agent-system-a-name-robotai-distributedmultiagent-a">Distributed Multi-agent System<a name="robotAI-DistributedMultiAgent"></a></h4>
+
+<p>Assembly large number (&gt;1000) of active colloidal particles into ordered structures can enable applications not attainable in small colloids systems (&lt;100), yet on the other hand poses challenges of developing robust and efficient coordination and control strategies.  Here we report a decentralized and asynchronized control strategy that can enable thousands of active particles to precisely assemble into predefined shapes and perform in-place shape transformations. This is enabled by equipping individual particles with the capability to make decisions on sequential assembly order and navigation through complex environments formed during assembly processes. Using deep reinforcement learning, distributed intelligent particle agents are trained to learn hierarchical navigation strategy across different length scales based on local sensor information at different granularity. Our results demonstrate a flexible and scalable algorithmic framework to control large number of active particles collective assembly behavior in a robust, error-tolerant, reconfigurable and dynamic manner.
+
+
+
+  
+
+<figure>
+
+<img src="/img/robot/LargeScaleRobotAssembly.jpg" />
+
+
+</figure></p>
+
+<h3 id="deep-reinforcement-learning-algorithms-a-name-aialgo-a">Deep reinforcement learning algorithms<a name="AIAlgo"></a></h3>
+
+<p>Deep reinforcement learning for high dimensional, hierarchical control tasks usually requires the use of complex neural networks as functional approximators, which can lead to inefficiency, instability and even divergence in the training process. Here, we introduce stacked deep Q learning (SDQL), a flexible modularized deep reinforcement learning architecture, that can enable finding of optimal control policy of control tasks consisting of multiple linear stages in a stable and efficient way. SDQL exploits the linear stage structure by approximating the Q function via a collection of deep Q sub-networks stacking along an axis marking the stage-wise progress of the whole task. By back-propagating the learned state values from later stages to earlier stages, all sub-networks co-adapt to maximize the total reward of the whole task, although each sub-network is responsible for learning optimal control policy for its own stage. This modularized architecture offers considerable flexibility in terms of environment and policy modeling, as it allows choices of different state spaces, action spaces, reward structures, and Q networks for each stage, Further, the backward stage-wise training procedure of SDQL can offers additional transparency, stability, and flexibility to the training process, thus facilitating model fine-tuning and hyper-parameter search. We demonstrate that SDQL is capable of learning competitive strategies for problems with characteristics of high-dimensional state space, heterogeneous action space(both discrete and continuous), multiple scales, and sparse and delayed rewards.
+
+
+
+  
+
+<figure>
+
+<img src="/img/DRLAlgorithms/Architecutre.png" />
+
+
+</figure></p>
+
+<h3 id="applied-optimal-control-and-estimation-in-stochastic-systems-a-name-stochsystem-a">Applied optimal control and estimation in stochastic systems<a name="StochSystem"></a></h3>
+
+<p>Perfectly ordered states are targets in diverse molecular to microscale systems involving, for example, atomic clusters, protein folding, protein crystallization, nanoparticle superlattices, and colloidal crystals. However, there is no obvious approach to control the assembly of perfectly ordered global free energy minimum structures; near-equilibrium assembly is impractically slow, and faster out-of-equilibrium processes generally terminate in defective states. Here, we demonstrate the rapid and robust assembly of perfect crystals by navigating kinetic bottlenecks using closed-loop control of electric field mediated crystallization of colloidal particles. An optimal policy is computed with dynamic programming using a reaction coordinate based dynamic model. By tracking real-time stochastic particle configurations and adjusting applied fields via feedback, the evolution of unassembled particles is guided through polycrystalline states into single domain crystals. This approach to controlling the assembly of a target structure is based on general principles that make it applicable to a broad range of processes from nano- to microscales (where tuning a global thermodynamic variable yields temporal control over thermal sampling of different states via their relative free energies).
+
+
+
+  
+
+<figure>
+
+<img src="/img/optimalColloidalAssembly/optimalColloidalAssembly.jpg" />
+
+
+</figure></p>
+
+<h3 id="noval-simulation-algorithms-for-stochastic-physical-systems-a-name-simulationalgo-a">Noval simulation algorithms for stochastic physical systems<a name="SimulationAlgo"></a></h3>
+
+<p>Colloidal rod diffusion near a wall is modeled and simulated based on a constrained Stokesian dynamic model of chains-of-spheres. By modeling colloidal rods as chains-of-spheres, complete diffusion tensors are computed for colloidal rods in bulk media and near interfaces, including hydrodynamic interactions, translation-rotation coupling, and all diffusion modes in the particle and lab frames. Simulated trajectories based on the chain-of-spheres diffusion tensor are quantified in terms of typical experimental quantities such as mean squared positional and angular displacements as well as autocorrelation functions. Theoretical expressions are reported to predict measured average diffusivities as well as the crossover from short-time anisotropic translational diffusion along the rod’s major axis to isotropic diffusion. Diffusion modes are quantified in terms of closed form empirical fits to model results to aid their use in interpretation and prediction of experiments involving colloidal rod diffusion in interfacial and confined systems.</p>
+
+<p>Brownian dynamics of colloidal particles on complex curved surfaces has found important applications in diverse physical, chemical, and biological processes. However, most Brownian dynamics simulation algorithms focus on relatively simple curved surfaces that can be analytically parameterized. In this work, we develop an algorithm to enable Brownian dynamics simulation on extremely complex curved surfaces. We approximate complex curved surfaces with triangle mesh surfaces and employ a novel scheme to perform particle simulation on these triangle mesh surfaces. Our algorithm computes forces and velocities of particles in global coordinates but updates their positions in local coordinates, which combines the strengths from both global and local simulation schemes. We benchmark the proposed algorithm with theory and then simulate Brownian dynamics of both single and multiple particles on torus and knot surfaces. The results show that our method captures well diffusion, transport, and crystallization of colloidal particles on complex surfaces with nontrivial topology. This study offers an efficient strategy for elucidating the impact of curvature, geometry, and topology on particle dynamics and microstructure formation in complex environments.</p>
+
+
+
+
+  
+
+<figure>
+
+<img src="/img/simulation/BrownianManifold.jpg" />
+
+
+</figure>
+
+<h3 id="modeling-stochastic-physical-systems-a-name-stochphysicalsystem-a">Modeling stochastic physical systems<a name="StochPhysicalSystem"></a></h3>
+
+
+
+
+  
+
+<figure>
+
+<img src="/img/physicalSystem/physicalSystemModeling.jpg" />
+
+
+</figure>
 
     </div>
 
