@@ -123,11 +123,6 @@
   </url>
   
   <url>
-    <loc>/mathbook/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/biosketch/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -619,6 +614,15 @@
   
   <url>
     <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/math/</loc>
+  </url>
+  
+  <url>
+    <loc>/mathbook/</loc>
+    <priority>0</priority>
   </url>
   
   <url>

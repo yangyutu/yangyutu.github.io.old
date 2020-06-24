@@ -236,32 +236,6 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/biosketch">
-            
-            <span>Biosketch</span>
-            
-          </a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
           <a class="nav-link  active" href="/research/">
             
             <span>Research</span>
@@ -314,7 +288,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/mathbook/">
+          <a class="nav-link " href="/math/">
             
             <span>Math Book</span>
             
@@ -472,7 +446,7 @@
 <h2 id="research-areas">Research Areas</h2>
 
 <ul>
-<li><a href="#robotAI">Applied AI Algorithms for Micro/Nano-Robot Systems</a>
+<li><a href="#robotAI">Applied AI Algorithms for Intelligent Micro/Nano-Robot Systems</a>
 
 <ul>
 <li><a href="#robotAI-SingleAgent">Single-agent Systems</a></li>
@@ -486,7 +460,7 @@
 <li><a href="#StochPhysicalSystem">Modeling stochastic physical systems</a></li>
 </ul>
 
-<h3 id="ai-for-colloidal-robots-a-name-robotai-a">AI for colloidal robots <a name="robotAI"></a></h3>
+<h3 id="intelligent-micro-nano-robot-systems">Intelligent Micro/Nano-Robot Systems</h3>
 
 
 
@@ -521,6 +495,12 @@
 
 </figure></p>
 
+<p>Read more: <br />
+* Micro/Nano Motor Navigation and Localization via Deep Reinforcement Learning <br />
+<u>Y Yang</u>, M Bevan, B Li <strong><em>Advanced Theory and Simulations (2020)</em></strong><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202000034" target="_blank">[Web]</a><a href="/files/MicroNano%20Motor%20Navigation%20and%20Localization%20via%20Deep%20Reinforcement%20Learning.pdf" target="_blank"> [PDF]</a> <br />
+* Efficient Navigation of Colloidal Robots in an Unknown Environment via Deep Reinforcement Learning<br />
+<u>Y Yang</u>, B Li, M Bevan <strong><em>Advanced Intelligent Systems (2019)</em></strong> <a href="https://aip.scitation.org/doi/pdf/10.1063/1.5126201" target="_blank">[Web]</a> <a href="/files/Yang,%20Bevan,%20Li%20-%202019%20-%20Efficient%20Navigation%20of%20Colloidal%20Robots%20in%20an%20Unknown%20Environment%20via%20Deep%20Reinforcement%20Learning.pdf" target="_blank"> [PDF]</a></p>
+
 <h4 id="multi-agent-system-in-2d-a-name-robotai-multiagent2d-a">Multi-agent System in 2D <a name="robotAI-MultiAgent2D"></a></h4>
 
 <p>Controlling active colloidal particle swarms could enable useful microscopic functions in emerging applications at the interface of nanotechnology and robotics. Here, we present a computational study of controlling self-propelled colloidal particle propulsion speeds to cooperatively capture and transport cargo particles, which otherwise produce random dispersions. By sensing swarm and cargo coordinates, each particle’s speed is actuated according to a control policy based on multiagent assignment and path planning strategies that navigate stochastic particle trajectories to targets around cargo. Colloidal swarms are shown to dynamically cage cargo at their center via inward radial forces while simultaneously translating via directional forces. Speed, power, and efficiency of swarm tasks display emergent coupled dependences on swarm size and pair interactions and approach asymptotic limits indicating near-optimal performance. This scheme exploits unique interactions and stochastic dynamics in colloidal swarms to capture and transport microscopic cargo in a robust, stable, error-tolerant, and dynamic manner.</p>
@@ -543,6 +523,10 @@
 </div>
 
 
+<p>Read more: <br />
+* Cargo Capture and Transport via Colloidal Swarms <br />
+<u>Y Yang</u>, M Bevan <strong><em>Science Advances (2020)</em></strong><a href="https://advances.sciencemag.org/content/6/4/eaay7679" target="_blank">[Web]</a><a href="/files/cargo%20capture%20and%20transport%20via%20colloidal%20swarms.pdf" target="_blank"> [PDF]</a></p>
+
 <h4 id="multi-agent-system-in-3d-a-name-robotai-multiagent3d-a">Multi-agent System in 3D <a name="robotAI-MultiAgent3D"></a></h4>
 
 <p>Designing intelligent nano-robots that can autonomously navigate in complex and crowded environments such as tissues and blood vessels can offer tremendous possibilities in biomedical applications. Here we report a hierarchical control scheme that enables a nano-robot to efficiently navigate in a blood environment. Our control scheme consists of a high-level controller setting short-ranged dynamic targets to guide the robot to follow a desired path and a low-level deep reinforcement learning controller (DRL) responsible for navigating towards to these dynamic guiding targets. The DRL controller minimally mimics the visual navigation of intelligent species and maps a coarse 3D sensation of the robot’s local environment to control decisions. From extensive navigation data,  the DRL controller is capable of learning competitive, robust, generalizable navigation strategies in free space and in confined environments with red blood cells. Once deployed in blood vessels, the controlled robot can efficiently navigate in blood vessels with different concentrations, vessel size, and RBC configurations. This study identifies the key elements in designing control systems for autonomous nanorobots and illustrates the potential of artificial intelligence for biomedical applications.
@@ -560,7 +544,7 @@
 
 <h4 id="distributed-multi-agent-system-a-name-robotai-distributedmultiagent-a">Distributed Multi-agent System<a name="robotAI-DistributedMultiAgent"></a></h4>
 
-<p>Assembly large number (&gt;1000) of active colloidal particles into ordered structures can enable applications not attainable in small colloids systems (&lt;100), yet on the other hand poses challenges of developing robust and efficient coordination and control strategies.  Here we report a decentralized and asynchronized control strategy that can enable thousands of active particles to precisely assemble into predefined shapes and perform in-place shape transformations. This is enabled by equipping individual particles with the capability to make decisions on sequential assembly order and navigation through complex environments formed during assembly processes. Using deep reinforcement learning, distributed intelligent particle agents are trained to learn hierarchical navigation strategy across different length scales based on local sensor information at different granularity. Our results demonstrate a flexible and scalable algorithmic framework to control large number of active particles collective assembly behavior in a robust, error-tolerant, reconfigurable and dynamic manner.
+<p>Assembly large number (&gt;1000) of colloidal robots into ordered structures can enable applications not attainable in small colloids systems (&lt;100), yet on the other hand poses challenges of developing robust and efficient coordination and control strategies.  Here we report a decentralized and asynchronized control strategy that can enable thousands of colloidal robots to precisely assemble into predefined shapes and perform in-place shape transformations. This is enabled by equipping individual robot with the capability to make decisions on sequential assembly order and navigation through complex environments formed during assembly processes. Using deep reinforcement learning, distributed intelligent robot agents are trained to learn hierarchical navigation strategy across different length scales based on local sensor information at different granularity. Our results demonstrate a flexible and scalable algorithmic framework to control a large number of colloidal robots collective assembly behavior in a robust, error-tolerant, reconfigurable manner.
 
 
 
@@ -588,6 +572,10 @@
 
 </figure></p>
 
+<p>Read more: <br />
+* A Deep Reinforcement Learning Architecture for Multi-stage Optimal Control <br />
+<u>Y Yang</u> <strong><em>Preprint (2019)</em></strong><a href="https://arxiv.org/abs/1911.10684" target="_blank">[Web]</a><a href="/files/A%20Deep%20Reinforcement%20Learning%20Architecture%20for%20Multi-stage%20Optimal%20Control.pdf" target="_blank"> [PDF]</a></p>
+
 <h3 id="applied-optimal-control-and-estimation-in-stochastic-systems-a-name-stochsystem-a">Applied optimal control and estimation in stochastic systems<a name="StochSystem"></a></h3>
 
 <p>Perfectly ordered states are targets in diverse molecular to microscale systems involving, for example, atomic clusters, protein folding, protein crystallization, nanoparticle superlattices, and colloidal crystals. However, there is no obvious approach to control the assembly of perfectly ordered global free energy minimum structures; near-equilibrium assembly is impractically slow, and faster out-of-equilibrium processes generally terminate in defective states. Here, we demonstrate the rapid and robust assembly of perfect crystals by navigating kinetic bottlenecks using closed-loop control of electric field mediated crystallization of colloidal particles. An optimal policy is computed with dynamic programming using a reaction coordinate based dynamic model. By tracking real-time stochastic particle configurations and adjusting applied fields via feedback, the evolution of unassembled particles is guided through polycrystalline states into single domain crystals. This approach to controlling the assembly of a target structure is based on general principles that make it applicable to a broad range of processes from nano- to microscales (where tuning a global thermodynamic variable yields temporal control over thermal sampling of different states via their relative free energies).
@@ -602,6 +590,19 @@
 
 
 </figure></p>
+
+<p>Read more:</p>
+
+<ul>
+<li>An M-Estimator for Reduced-Rank High-Dimensional Linear Dynamical System Identification. <br />
+S Chen, K Liu, <u>Y Yang</u>, Y Xu, S Lee, M Lindquist, BS Caffo, JT Vogelstein. <strong><em>Pattern recognition letters (2017)</em></strong>  <a href="https://www.sciencedirect.com/science/article/pii/S0167865516303671" target="_blank">[Web]</a>  <a href="/files/An%20M-estimator%20for%20reduced-rank%20system%20identification.pdf" target="_blank"> [PDF]</a> <br /></li>
+<li>Optimal Feedback Controlled Assembly of Perfect Crystals. <br />
+X Tang*, B Rupp*, <u>Y Yang</u>*, TD Edwards, MA Grover, MA Bevan. (*Equal Contribution) <strong><em>ACS nano (2016)</em></strong> <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.6b02400" target="_blank">[Web]</a> <a href="/files/Optimal%20Feedback%20Controlled%20Assembly%20of%20Perfect%20Crystals.pdf" target="_blank"> [PDF]</a> <br /></li>
+<li>Dynamic Colloidal Assembly Pathways via Low Dimensional Models. <br />
+<u>Y Yang</u>, R Thyagarajan, DM Ford, MA Bevan. <strong><em>The Journal of chemical physics (2016)</em></strong>  <a href="https://aip.scitation.org/doi/abs/10.1063/1.4951698" target="_blank">[Web]</a> <a href="/files/Dynamic%20colloidal%20assembly%20pathways%20via%20low%20dimensional%20models.pdf" target="_blank"> [PDF]</a> <br /></li>
+<li>Controlling Assembly of Colloidal Particles into Structured Objects: Basic Strategy and A Case Study <br />
+MA Bevan, DM Ford, MA Grover, B Shapiro, D Maroudas, <u>Y Yang</u>, et al. <strong><em>Journal of Process Control (2015)</em></strong>  <a href="https://www.sciencedirect.com/science/article/pii/S0959152414002959" target="_blank">[Web]</a>   <a href="/files/Controlling%20assembly%20of%20colloidal%20particles%20into%20structured%20objectsl.pdf" target="_blank"> [PDF]</a></li>
+</ul>
 
 <h3 id="noval-simulation-algorithms-for-stochastic-physical-systems-a-name-simulationalgo-a">Noval simulation algorithms for stochastic physical systems<a name="SimulationAlgo"></a></h3>
 
@@ -621,8 +622,16 @@
 
 </figure>
 
+<p>Read more:<br />
+* Interfacial Colloidal Rod Dynamics: Coefficients, Simulations, and Analysis<br />
+<u>Y Yang</u>, MA Bevan <strong><em>The Journal of chemical physics (2017)</em></strong> <a href="https://aip.scitation.org/doi/10.1063/1.4995949" target="_blank">[Web]</a> <a href="/files/Interfacial%20colloidal%20rod%20dynamics%20Coefficients,%20simulations,.pdf" target="_blank"> [PDF]</a> <br />
+* A Simulation Algorithm for Brownian Dynamics on Complex Curved Surfaces<br />
+<u>Y Yang</u>, B Li <strong><em>The Journal of chemical physics (2019)</em></strong> <a href="https://aip.scitation.org/doi/pdf/10.1063/1.5126201" target="_blank">[Web]</a> <a href="/files/Yang,%20Li%20-%202019%20-%20A%20Simulation%20Algorithm%20for%20Brownian%20Dynamics%20on%20Complex%20Curved%20Surfaces.pdf" target="_blank"> [PDF]</a></p>
+
 <h3 id="modeling-stochastic-physical-systems-a-name-stochphysicalsystem-a">Modeling stochastic physical systems<a name="StochPhysicalSystem"></a></h3>
 
+<p>Colloidal rod diffusion near a wall is modeled and simulated based on a constrained Stokesian dynamic model of chains-of-spheres. By modeling colloidal rods as chains-of-spheres, complete diffusion tensors are computed for colloidal rods in bulk media and near interfaces, including hydrodynamic interactions, translation-rotation coupling, and all diffusion modes in the particle and lab frames. Simulated trajectories based on the chain-of-spheres diffusion tensor are quantified in terms of typical experimental quantities such as mean squared positional and angular displacements as well as autocorrelation functions. Theoretical expressions are reported to predict measured average diffusivities as well as the
+crossover from short-time anisotropic translational diffusion along the rod’s major axis to isotropic diffusion. Diffusion modes are quantified in terms of closed form empirical fits to model results to aid their use in interpretation and prediction of experiments involving colloidal rod diffusion in interfacial and confined systems.
 
 
 
@@ -633,7 +642,23 @@
 <img src="/img/physicalSystem/physicalSystemModeling.jpg" />
 
 
-</figure>
+</figure></p>
+
+<p>Read more:<br />
+* Colloidal Crystal Grain Boundary Formation and Motion. <br />
+TD Edwards*, <u>Y Yang</u>*, DJ Beltran-Villegas, MA Bevan. (*Equal Contribution) <strong><em>Nature Scientific reports (2014)</em></strong> <a href="https://www.nature.com/articles/srep06132" target="_blank">[Web]</a> <a href="/files/Colloidal%20crystal%20grain%20boundary%20formation%20and%20motion.pdf" target="_blank"> [PDF]</a> <br />
+* Collective oscillation in dense suspension of self-propelled chiral rods <br />
+Y Liu, <u>Y Yang</u>, B Li, XQ Feng <strong><em>Soft matter (2019)</em></strong>  <a href="https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm00159j/unauth#!divAbstract" target="_blank">[Web]</a>  <a href="/files/Liu%20et%20al.%20-%202019%20-%20Collective%20oscillation%20in%20dense%20suspension%20of%20self-propelled%20chiral%20rods.pdf" target="_blank"> [PDF]</a> <br />
+* Energy Landscapes for Ellipsoids in Non-uniform AC Electric Fields<br />
+I Torres-Díaz, B Rupp, <u>Y Yang</u>, MA Bevan <strong><em>Soft matter (2018)</em></strong>  <a href="https://pubs.rsc.org/en/content/articlelanding/2018/sm/c7sm02287e/unauth#!divAbstract" target="_blank">[Web]</a>  <a href="/files/Energy%20landscapes%20for%20ellipsoids%20in%20non-uniform.pdf" target="_blank"> [PDF]</a> <br />
+* Interfacial Colloidal Rod Dynamics: Coefficients, Simulations, and Analysis<br />
+<u>Y Yang</u>, MA Bevan <strong><em>The Journal of chemical physics (2017)</em></strong> <a href="https://aip.scitation.org/doi/abs/10.1063/1.4995949" target="_blank">[Web]</a> <a href="/files/Interfacial%20colloidal%20rod%20dynamics%20Coefficients,%20simulations,.pdf" target="_blank"> [PDF]</a> <br />
+* Interfacial and Confined Colloidal Rod Diffusion <br />
+JL Bitter, <u>Y Yang</u>, G Duncan, H Fairbrother, MA Bevan. <strong><em>Langmuir (2017)</em></strong> <a href="https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.7b01704" target="_blank">[Web]</a> <a href="/files/Interfacial%20and%20Confined%20Colloidal%20Rod%20Diffusion.pdf" target="_blank"> [PDF]</a> <br />
+* Reconfigurable Multi-scale Colloidal Assembly on Excluded Volume Patterns. <br />
+TD Edwards, <u>Y Yang</u>, WN Everett, MA Bevan. <strong><em>Nature Scientific reports (2015)</em></strong>  <a href="https://www.nature.com/articles/srep13612" target="_blank">[Web]</a>  <a href="/files/Reconfgurable%20multi-scale%20colloidal%20assembly%20on%20excluded%20volume%20patterns.pdf" target="_blank"> [PDF]</a> <br />
+* Modeling Depletion Mediated Colloidal Assembly on Topographical Patterns. <br />
+<u>Y Yang</u>, TD Edwards, MA Bevan. <strong><em>Journal of colloid and interface science(2015)</em></strong> <a href="https://www.sciencedirect.com/science/article/pii/S0021979714009461" target="_blank">[Web]</a>   <a href="/files/Modeling%20depletion%20mediated%20colloidal%20assembly%20on%20topographical.pdf" target="_blank"> [PDF]</a></p>
 
     </div>
 

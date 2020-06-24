@@ -76,11 +76,296 @@
     </item>
     
     <item>
-      <title></title>
-      <link>/mathbook/</link>
+      <title>About Me</title>
+      <link>/biosketch/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/mathbook/</guid>
+      <guid>/biosketch/</guid>
+      <description>
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Artificial intelligence, including machine learning, has emerged as a trending technology that will have
+fundamental impact on diverse fields, such as health, finance, robotics and etc. Since my research at
+John Hopkins at PhD, I have been exploring the application of AI technology in solving biomedical
+challenges - Autonomous navigation of micro-robots in human body. My endeavor in this field
+continued after earning PhD degree, through collaboration with John Hopkins and Tsing Hua University.
+Link to project movie.&lt;/p&gt;
+
+&lt;h2 id=&#34;at-wells-fargo&#34;&gt;At Wells Fargo&lt;/h2&gt;
+
+&lt;p&gt;I have been working as a quantitative associate at Wells Fargo since July 2017, as I was intrigued by the
+elegance and power of mathematical finance. My accomplishment in this field can be found in my
+finance book.&lt;/p&gt;
+
+&lt;h2 id=&#34;mathematical-modeling&#34;&gt;Mathematical modeling&lt;/h2&gt;
+
+&lt;p&gt;Applied math is always my passion. I have been taking on various mathematical modeling challenges
+since undergrad. I had won top awards in series of most prestigious contests, both internationally and
+domestically. My team was Outstanding Winner (ranked top 3 among 2,254 teams) in MCM
+(Mathematical Contest in Modeling) of USA in 2010. I also won the First Class Prize in Undergraduate
+Mathmatical Contest in Modeling in China and First Class Prize in Advanced Mathematics Contest in
+Zhejiang Province in 2008 and 2009, respectively.
+My pursuit in applied math and endeavors to thoroughly comprehend mathematical concepts and
+modelling tools culminate in the book “Essentials of Mathematical methods”, which consists of more
+than 50 chapters (2,000+ pages) surveying major aspects of applied math in science and engineering.
+Spanning from/…&lt;/p&gt;
+
+&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/misc/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>
+
+&lt;h2 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#robotAI&#34;&gt;Applied AI Algorithms for Intelligent Micro/Nano-Robot Systems&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#robotAI-SingleAgent&#34;&gt;Single-agent Systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#robotAI-MultiAgent2D&#34;&gt;Multi-agent Systems (2D)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#robotAI-MultiAgent3D&#34;&gt;Multi-agent Systems (3D)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#robotAI-DistributedMultiAgent&#34;&gt;Distributed Multi-agent Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#AIAlgo&#34;&gt;Deep reinforcement learning algorithms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#StochSystem&#34;&gt;Applied optimal control and estimation in stochastic systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#SimulationAlgo&#34;&gt;Novel simulation algorithms for stochastic physical systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#StochPhysicalSystem&#34;&gt;Modeling stochastic physical systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;intelligent-micro-nano-robot-systems&#34;&gt;Intelligent Micro/Nano-Robot Systems&lt;/h3&gt;
+
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/robot/AIicon2.png&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h4 id=&#34;single-agent-system-a-name-robotai-singleagent-a&#34;&gt;Single-agent System&lt;a name=&#34;robotAI-SingleAgent&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/b8yFWW_sRZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Equipping micro-/nanoscale colloidal robots with artificial intelligence such that they can efficiently navigate in unknown complex environments could dramatically impact their use in emerging applications like precision surgery and targeted drug delivery. Here we develop a model-free deep reinforcement learning algorithm that can train colloidal robots to learn effective navigation strategies in unknown environments with random obstacles. We employed a deep neural network archecture that enables the robot to mimic animal navigation decision-making by directly processing raw sensor input and decomposing long-range navigations to short-range ones. We show that trained robot agents learn to make navigation decisions regarding both obstacle avoidance and travel time minimization, based solely on local sensory inputs without prior knowledge of the global environment. Such agents with biologically inspired mechanisms can acquire competitive navigation capabilities in large-scale, complex environments containing obstacles of diverse shapes, sizes, and configurations. This study illustrates the potential of artificial intelligence to enable colloidal robots in extensive applications.
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/robot/DRLInterpretation.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Read more: &lt;br /&gt;
+* Micro/Nano Motor Navigation and Localization via Deep Reinforcement Learning &lt;br /&gt;
+&lt;u&gt;Y Yang&lt;/u&gt;, M Bevan, B Li &lt;strong&gt;&lt;em&gt;Advanced Theory and Simulations (2020)&lt;/em&gt;&lt;/strong&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/full/10.1002/adts.202000034&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt;&lt;a href=&#34;/files/MicroNano%20Motor%20Navigation%20and%20Localization%20via%20Deep%20Reinforcement%20Learning.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;
+* Efficient Navigation of Colloidal Robots in an Unknown Environment via Deep Reinforcement Learning&lt;br /&gt;
+&lt;u&gt;Y Yang&lt;/u&gt;, B Li, M Bevan &lt;strong&gt;&lt;em&gt;Advanced Intelligent Systems (2019)&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://aip.scitation.org/doi/pdf/10.1063/1.5126201&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt; &lt;a href=&#34;/files/Yang,%20Bevan,%20Li%20-%202019%20-%20Efficient%20Navigation%20of%20Colloidal%20Robots%20in%20an%20Unknown%20Environment%20via%20Deep%20Reinforcement%20Learning.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;multi-agent-system-in-2d-a-name-robotai-multiagent2d-a&#34;&gt;Multi-agent System in 2D &lt;a name=&#34;robotAI-MultiAgent2D&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Controlling active colloidal particle swarms could enable useful microscopic functions in emerging applications at the interface of nanotechnology and robotics. Here, we present a computational study of controlling self-propelled colloidal particle propulsion speeds to cooperatively capture and transport cargo particles, which otherwise produce random dispersions. By sensing swarm and cargo coordinates, each particle’s speed is actuated according to a control policy based on multiagent assignment and path planning strategies that navigate stochastic particle trajectories to targets around cargo. Colloidal swarms are shown to dynamically cage cargo at their center via inward radial forces while simultaneously translating via directional forces. Speed, power, and efficiency of swarm tasks display emergent coupled dependences on swarm size and pair interactions and approach asymptotic limits indicating near-optimal performance. This scheme exploits unique interactions and stochastic dynamics in colloidal swarms to capture and transport microscopic cargo in a robust, stable, error-tolerant, and dynamic manner.&lt;/p&gt;
+
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/robot/antMultiagent_demo.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/ofibeCz5QM4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Read more: &lt;br /&gt;
+* Cargo Capture and Transport via Colloidal Swarms &lt;br /&gt;
+&lt;u&gt;Y Yang&lt;/u&gt;, M Bevan &lt;strong&gt;&lt;em&gt;Science Advances (2020)&lt;/em&gt;&lt;/strong&gt;&lt;a href=&#34;https://advances.sciencemag.org/content/6/4/eaay7679&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt;&lt;a href=&#34;/files/cargo%20capture%20and%20transport%20via%20colloidal%20swarms.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;multi-agent-system-in-3d-a-name-robotai-multiagent3d-a&#34;&gt;Multi-agent System in 3D &lt;a name=&#34;robotAI-MultiAgent3D&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Designing intelligent nano-robots that can autonomously navigate in complex and crowded environments such as tissues and blood vessels can offer tremendous possibilities in biomedical applications. Here we report a hierarchical control scheme that enables a nano-robot to efficiently navigate in a blood environment. Our control scheme consists of a high-level controller setting short-ranged dynamic targets to guide the robot to follow a desired path and a low-level deep reinforcement learning controller (DRL) responsible for navigating towards to these dynamic guiding targets. The DRL controller minimally mimics the visual navigation of intelligent species and maps a coarse 3D sensation of the robot’s local environment to control decisions. From extensive navigation data,  the DRL controller is capable of learning competitive, robust, generalizable navigation strategies in free space and in confined environments with red blood cells. Once deployed in blood vessels, the controlled robot can efficiently navigate in blood vessels with different concentrations, vessel size, and RBC configurations. This study identifies the key elements in designing control systems for autonomous nanorobots and illustrates the potential of artificial intelligence for biomedical applications.
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/robot/robotBloodDemo.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;distributed-multi-agent-system-a-name-robotai-distributedmultiagent-a&#34;&gt;Distributed Multi-agent System&lt;a name=&#34;robotAI-DistributedMultiAgent&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Assembly large number (&amp;gt;1000) of colloidal robots into ordered structures can enable applications not attainable in small colloids systems (&amp;lt;100), yet on the other hand poses challenges of developing robust and efficient coordination and control strategies.  Here we report a decentralized and asynchronized control strategy that can enable thousands of colloidal robots to precisely assemble into predefined shapes and perform in-place shape transformations. This is enabled by equipping individual robot with the capability to make decisions on sequential assembly order and navigation through complex environments formed during assembly processes. Using deep reinforcement learning, distributed intelligent robot agents are trained to learn hierarchical navigation strategy across different length scales based on local sensor information at different granularity. Our results demonstrate a flexible and scalable algorithmic framework to control a large number of colloidal robots collective assembly behavior in a robust, error-tolerant, reconfigurable manner.
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/robot/LargeScaleRobotAssembly.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;deep-reinforcement-learning-algorithms-a-name-aialgo-a&#34;&gt;Deep reinforcement learning algorithms&lt;a name=&#34;AIAlgo&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Deep reinforcement learning for high dimensional, hierarchical control tasks usually requires the use of complex neural networks as functional approximators, which can lead to inefficiency, instability and even divergence in the training process. Here, we introduce stacked deep Q learning (SDQL), a flexible modularized deep reinforcement learning architecture, that can enable finding of optimal control policy of control tasks consisting of multiple linear stages in a stable and efficient way. SDQL exploits the linear stage structure by approximating the Q function via a collection of deep Q sub-networks stacking along an axis marking the stage-wise progress of the whole task. By back-propagating the learned state values from later stages to earlier stages, all sub-networks co-adapt to maximize the total reward of the whole task, although each sub-network is responsible for learning optimal control policy for its own stage. This modularized architecture offers considerable flexibility in terms of environment and policy modeling, as it allows choices of different state spaces, action spaces, reward structures, and Q networks for each stage, Further, the backward stage-wise training procedure of SDQL can offers additional transparency, stability, and flexibility to the training process, thus facilitating model fine-tuning and hyper-parameter search. We demonstrate that SDQL is capable of learning competitive strategies for problems with characteristics of high-dimensional state space, heterogeneous action space(both discrete and continuous), multiple scales, and sparse and delayed rewards.
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/DRLAlgorithms/Architecutre.png&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Read more: &lt;br /&gt;
+* A Deep Reinforcement Learning Architecture for Multi-stage Optimal Control &lt;br /&gt;
+&lt;u&gt;Y Yang&lt;/u&gt; &lt;strong&gt;&lt;em&gt;Preprint (2019)&lt;/em&gt;&lt;/strong&gt;&lt;a href=&#34;https://arxiv.org/abs/1911.10684&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt;&lt;a href=&#34;/files/A%20Deep%20Reinforcement%20Learning%20Architecture%20for%20Multi-stage%20Optimal%20Control.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;applied-optimal-control-and-estimation-in-stochastic-systems-a-name-stochsystem-a&#34;&gt;Applied optimal control and estimation in stochastic systems&lt;a name=&#34;StochSystem&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Perfectly ordered states are targets in diverse molecular to microscale systems involving, for example, atomic clusters, protein folding, protein crystallization, nanoparticle superlattices, and colloidal crystals. However, there is no obvious approach to control the assembly of perfectly ordered global free energy minimum structures; near-equilibrium assembly is impractically slow, and faster out-of-equilibrium processes generally terminate in defective states. Here, we demonstrate the rapid and robust assembly of perfect crystals by navigating kinetic bottlenecks using closed-loop control of electric field mediated crystallization of colloidal particles. An optimal policy is computed with dynamic programming using a reaction coordinate based dynamic model. By tracking real-time stochastic particle configurations and adjusting applied fields via feedback, the evolution of unassembled particles is guided through polycrystalline states into single domain crystals. This approach to controlling the assembly of a target structure is based on general principles that make it applicable to a broad range of processes from nano- to microscales (where tuning a global thermodynamic variable yields temporal control over thermal sampling of different states via their relative free energies).
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/optimalColloidalAssembly/optimalColloidalAssembly.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Read more:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An M-Estimator for Reduced-Rank High-Dimensional Linear Dynamical System Identification. &lt;br /&gt;
+S Chen, K Liu, &lt;u&gt;Y Yang&lt;/u&gt;, Y Xu, S Lee, M Lindquist, BS Caffo, JT Vogelstein. &lt;strong&gt;&lt;em&gt;Pattern recognition letters (2017)&lt;/em&gt;&lt;/strong&gt;  &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0167865516303671&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt;  &lt;a href=&#34;/files/An%20M-estimator%20for%20reduced-rank%20system%20identification.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Optimal Feedback Controlled Assembly of Perfect Crystals. &lt;br /&gt;
+X Tang*, B Rupp*, &lt;u&gt;Y Yang&lt;/u&gt;*, TD Edwards, MA Grover, MA Bevan. (*Equal Contribution) &lt;strong&gt;&lt;em&gt;ACS nano (2016)&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://pubs.acs.org/doi/abs/10.1021/acsnano.6b02400&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt; &lt;a href=&#34;/files/Optimal%20Feedback%20Controlled%20Assembly%20of%20Perfect%20Crystals.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Dynamic Colloidal Assembly Pathways via Low Dimensional Models. &lt;br /&gt;
+&lt;u&gt;Y Yang&lt;/u&gt;, R Thyagarajan, DM Ford, MA Bevan. &lt;strong&gt;&lt;em&gt;The Journal of chemical physics (2016)&lt;/em&gt;&lt;/strong&gt;  &lt;a href=&#34;https://aip.scitation.org/doi/abs/10.1063/1.4951698&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt; &lt;a href=&#34;/files/Dynamic%20colloidal%20assembly%20pathways%20via%20low%20dimensional%20models.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;Controlling Assembly of Colloidal Particles into Structured Objects: Basic Strategy and A Case Study &lt;br /&gt;
+MA Bevan, DM Ford, MA Grover, B Shapiro, D Maroudas, &lt;u&gt;Y Yang&lt;/u&gt;, et al. &lt;strong&gt;&lt;em&gt;Journal of Process Control (2015)&lt;/em&gt;&lt;/strong&gt;  &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0959152414002959&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt;   &lt;a href=&#34;/files/Controlling%20assembly%20of%20colloidal%20particles%20into%20structured%20objectsl.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;noval-simulation-algorithms-for-stochastic-physical-systems-a-name-simulationalgo-a&#34;&gt;Noval simulation algorithms for stochastic physical systems&lt;a name=&#34;SimulationAlgo&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Colloidal rod diffusion near a wall is modeled and simulated based on a constrained Stokesian dynamic model of chains-of-spheres. By modeling colloidal rods as chains-of-spheres, complete diffusion tensors are computed for colloidal rods in bulk media and near interfaces, including hydrodynamic interactions, translation-rotation coupling, and all diffusion modes in the particle and lab frames. Simulated trajectories based on the chain-of-spheres diffusion tensor are quantified in terms of typical experimental quantities such as mean squared positional and angular displacements as well as autocorrelation functions. Theoretical expressions are reported to predict measured average diffusivities as well as the crossover from short-time anisotropic translational diffusion along the rod’s major axis to isotropic diffusion. Diffusion modes are quantified in terms of closed form empirical fits to model results to aid their use in interpretation and prediction of experiments involving colloidal rod diffusion in interfacial and confined systems.&lt;/p&gt;
+
+&lt;p&gt;Brownian dynamics of colloidal particles on complex curved surfaces has found important applications in diverse physical, chemical, and biological processes. However, most Brownian dynamics simulation algorithms focus on relatively simple curved surfaces that can be analytically parameterized. In this work, we develop an algorithm to enable Brownian dynamics simulation on extremely complex curved surfaces. We approximate complex curved surfaces with triangle mesh surfaces and employ a novel scheme to perform particle simulation on these triangle mesh surfaces. Our algorithm computes forces and velocities of particles in global coordinates but updates their positions in local coordinates, which combines the strengths from both global and local simulation schemes. We benchmark the proposed algorithm with theory and then simulate Brownian dynamics of both single and multiple particles on torus and knot surfaces. The results show that our method captures well diffusion, transport, and crystallization of colloidal particles on complex surfaces with nontrivial topology. This study offers an efficient strategy for elucidating the impact of curvature, geometry, and topology on particle dynamics and microstructure formation in complex environments.&lt;/p&gt;
+
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/simulation/BrownianManifold.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Read more:&lt;br /&gt;
+* Interfacial Colloidal Rod Dynamics: Coefficients, Simulations, and Analysis&lt;br /&gt;
+&lt;u&gt;Y Yang&lt;/u&gt;, MA Bevan &lt;strong&gt;&lt;em&gt;The Journal of chemical physics (2017)&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://aip.scitation.org/doi/10.1063/1.4995949&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt; &lt;a href=&#34;/files/Interfacial%20colloidal%20rod%20dynamics%20Coefficients,%20simulations,.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;
+* A Simulation Algorithm for Brownian Dynamics on Complex Curved Surfaces&lt;br /&gt;
+&lt;u&gt;Y Yang&lt;/u&gt;, B Li &lt;strong&gt;&lt;em&gt;The Journal of chemical physics (2019)&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://aip.scitation.org/doi/pdf/10.1063/1.5126201&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt; &lt;a href=&#34;/files/Yang,%20Li%20-%202019%20-%20A%20Simulation%20Algorithm%20for%20Brownian%20Dynamics%20on%20Complex%20Curved%20Surfaces.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;modeling-stochastic-physical-systems-a-name-stochphysicalsystem-a&#34;&gt;Modeling stochastic physical systems&lt;a name=&#34;StochPhysicalSystem&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Colloidal rod diffusion near a wall is modeled and simulated based on a constrained Stokesian dynamic model of chains-of-spheres. By modeling colloidal rods as chains-of-spheres, complete diffusion tensors are computed for colloidal rods in bulk media and near interfaces, including hydrodynamic interactions, translation-rotation coupling, and all diffusion modes in the particle and lab frames. Simulated trajectories based on the chain-of-spheres diffusion tensor are quantified in terms of typical experimental quantities such as mean squared positional and angular displacements as well as autocorrelation functions. Theoretical expressions are reported to predict measured average diffusivities as well as the
+crossover from short-time anisotropic translational diffusion along the rod’s major axis to isotropic diffusion. Diffusion modes are quantified in terms of closed form empirical fits to model results to aid their use in interpretation and prediction of experiments involving colloidal rod diffusion in interfacial and confined systems.
+
+
+
+  
+
+&lt;figure&gt;
+
+&lt;img src=&#34;/img/physicalSystem/physicalSystemModeling.jpg&#34; /&gt;
+
+
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Read more:&lt;br /&gt;
+* Colloidal Crystal Grain Boundary Formation and Motion. &lt;br /&gt;
+TD Edwards*, &lt;u&gt;Y Yang&lt;/u&gt;*, DJ Beltran-Villegas, MA Bevan. (*Equal Contribution) &lt;strong&gt;&lt;em&gt;Nature Scientific reports (2014)&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://www.nature.com/articles/srep06132&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt; &lt;a href=&#34;/files/Colloidal%20crystal%20grain%20boundary%20formation%20and%20motion.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;
+* Collective oscillation in dense suspension of self-propelled chiral rods &lt;br /&gt;
+Y Liu, &lt;u&gt;Y Yang&lt;/u&gt;, B Li, XQ Feng &lt;strong&gt;&lt;em&gt;Soft matter (2019)&lt;/em&gt;&lt;/strong&gt;  &lt;a href=&#34;https://pubs.rsc.org/en/content/articlelanding/2019/sm/c9sm00159j/unauth#!divAbstract&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt;  &lt;a href=&#34;/files/Liu%20et%20al.%20-%202019%20-%20Collective%20oscillation%20in%20dense%20suspension%20of%20self-propelled%20chiral%20rods.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;
+* Energy Landscapes for Ellipsoids in Non-uniform AC Electric Fields&lt;br /&gt;
+I Torres-Díaz, B Rupp, &lt;u&gt;Y Yang&lt;/u&gt;, MA Bevan &lt;strong&gt;&lt;em&gt;Soft matter (2018)&lt;/em&gt;&lt;/strong&gt;  &lt;a href=&#34;https://pubs.rsc.org/en/content/articlelanding/2018/sm/c7sm02287e/unauth#!divAbstract&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt;  &lt;a href=&#34;/files/Energy%20landscapes%20for%20ellipsoids%20in%20non-uniform.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;
+* Interfacial Colloidal Rod Dynamics: Coefficients, Simulations, and Analysis&lt;br /&gt;
+&lt;u&gt;Y Yang&lt;/u&gt;, MA Bevan &lt;strong&gt;&lt;em&gt;The Journal of chemical physics (2017)&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://aip.scitation.org/doi/abs/10.1063/1.4995949&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt; &lt;a href=&#34;/files/Interfacial%20colloidal%20rod%20dynamics%20Coefficients,%20simulations,.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;
+* Interfacial and Confined Colloidal Rod Diffusion &lt;br /&gt;
+JL Bitter, &lt;u&gt;Y Yang&lt;/u&gt;, G Duncan, H Fairbrother, MA Bevan. &lt;strong&gt;&lt;em&gt;Langmuir (2017)&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://pubs.acs.org/doi/abs/10.1021/acs.langmuir.7b01704&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt; &lt;a href=&#34;/files/Interfacial%20and%20Confined%20Colloidal%20Rod%20Diffusion.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;
+* Reconfigurable Multi-scale Colloidal Assembly on Excluded Volume Patterns. &lt;br /&gt;
+TD Edwards, &lt;u&gt;Y Yang&lt;/u&gt;, WN Everett, MA Bevan. &lt;strong&gt;&lt;em&gt;Nature Scientific reports (2015)&lt;/em&gt;&lt;/strong&gt;  &lt;a href=&#34;https://www.nature.com/articles/srep13612&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt;  &lt;a href=&#34;/files/Reconfgurable%20multi-scale%20colloidal%20assembly%20on%20excluded%20volume%20patterns.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt; &lt;br /&gt;
+* Modeling Depletion Mediated Colloidal Assembly on Topographical Patterns. &lt;br /&gt;
+&lt;u&gt;Y Yang&lt;/u&gt;, TD Edwards, MA Bevan. &lt;strong&gt;&lt;em&gt;Journal of colloid and interface science(2015)&lt;/em&gt;&lt;/strong&gt; &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0021979714009461&#34; target=&#34;_blank&#34;&gt;[Web]&lt;/a&gt;   &lt;a href=&#34;/files/Modeling%20depletion%20mediated%20colloidal%20assembly%20on%20topographical.pdf&#34; target=&#34;_blank&#34;&gt; [PDF]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/math/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/math/</guid>
       <description>
 
 &lt;h2 id=&#34;essentials-of-mathematical-methods&#34;&gt;&lt;strong&gt;Essentials of Mathematical Methods&lt;/strong&gt;&lt;/h2&gt;
@@ -99,20 +384,24 @@
 
 &lt;h4 id=&#34;about-this-book&#34;&gt;About this book&lt;/h4&gt;
 
-&lt;p&gt;Also check out &lt;a href=&#34;https://github.com/yangyutu/EssentialMath&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt; for updates and issues.&lt;/p&gt;
+&lt;p&gt;Check out &lt;a href=&#34;https://github.com/yangyutu/EssentialMath&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt; for updates and issues.&lt;/p&gt;
 
 &lt;h4 id=&#34;download-the-whole-book&#34;&gt;Download the whole book&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;/files/MathBook.pdf&#34; target=&#34;_blank&#34;&gt;Essentials of Mathematical Methods&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/files/mathbook/TOC.pdf&#34; target=&#34;_blank&#34;&gt;Front Matter and Table of Contents&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;/files/mathbook/Mathmain%20JUNE.pdf&#34; target=&#34;_blank&#34;&gt;Essentials of Mathematical Methods&lt;/a&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;download-selected-topics&#34;&gt;Download selected topics&lt;/h4&gt;
+&lt;h4 id=&#34;download-chapters-of-selective-topics&#34;&gt;Download chapters of selective topics&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&#34;/files/financeBook.pdf&#34; target=&#34;_blank&#34;&gt;Linear Algebra and Matrix Analysis&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&#34;/files/financeBook.pdf&#34; target=&#34;_blank&#34;&gt;Linear Regression Analysis&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&#34;/files/financeBook.pdf&#34; target=&#34;_blank&#34;&gt;Probability and Statistical Estimation&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&#34;/files/financeBook.pdf&#34; target=&#34;_blank&#34;&gt;Markov Chain and Random Walk&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&#34;/files/financeBook.pdf&#34; target=&#34;_blank&#34;&gt;Supervised stistical learning&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&#34;/files/financeBook.pdf&#34; target=&#34;_blank&#34;&gt;(Deep) Reinforcement Learning&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/files/mathbook/linearAlgebra.pdf&#34; target=&#34;_blank&#34;&gt;Linear Algebra and Matrix Analysis&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;/files/mathbook/optimization.pdf&#34; target=&#34;_blank&#34;&gt;Mathematical Optimization&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;/files/mathbook/probStatistics.pdf&#34; target=&#34;_blank&#34;&gt;Probability and Statistical Estimation&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;/files/mathbook/stochasticProcess.pdf&#34; target=&#34;_blank&#34;&gt;Stochastic Process&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;/files/mathbook/MarkovChain.pdf&#34; target=&#34;_blank&#34;&gt;Markov Chain and Random Walk&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;/files/mathbook/linearRegression.pdf&#34; target=&#34;_blank&#34;&gt;Linear Regression Analysis&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;/files/mathbook/statisticalLearning.pdf&#34; target=&#34;_blank&#34;&gt;Statistical Learning&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;/files/mathbook/deepLearning.pdf&#34; target=&#34;_blank&#34;&gt;Neural Network and Deep Learning&lt;/a&gt; &lt;br /&gt;
+&lt;a href=&#34;/files/mathbook/reinforcementLearning.pdf&#34; target=&#34;_blank&#34;&gt;(Deep) Reinforcement Learning&lt;/a&gt; &lt;/p&gt;
 
 &lt;h3 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h3&gt;
 
@@ -177,7 +466,7 @@
 &lt;h4 id=&#34;vi-optimal-control-and-reinforcement-learning-methods&#34;&gt;VI Optimal Control and Reinforcement Learning Methods&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Classical Optimal Contrl Theory&lt;/li&gt;
+&lt;li&gt;Classical Optimal Control Theory&lt;/li&gt;
 &lt;li&gt;Reinforcement Learning&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -186,239 +475,128 @@
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>/biosketch/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/biosketch/</guid>
-      <description>
-
-&lt;p&gt;&lt;a href=&#34;/files/financeBook.pdf&#34; target=&#34;_blank&#34;&gt;Full CV&lt;/a&gt; &lt;/p&gt;
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
-&lt;p&gt;Artificial intelligence, including machine learning, has emerged as a trending technology that will have
-fundamental impact on diverse fields, such as health, finance, robotics and etc. Since my research at
-John Hopkins at PhD, I have been exploring the application of AI technology in solving biomedical
-challenges - Autonomous navigation of micro-robots in human body. My endeavor in this field
-continued after earning PhD degree, through collaboration with John Hopkins and Tsing Hua University.
-Link to project movie.&lt;/p&gt;
-
-&lt;h2 id=&#34;at-wells-fargo&#34;&gt;At Wells Fargo&lt;/h2&gt;
-
-&lt;p&gt;I have been working as a quantitative associate at Wells Fargo since July 2017, as I was intrigued by the
-elegance and power of mathematical finance. My accomplishment in this field can be found in my
-finance book.&lt;/p&gt;
-
-&lt;h2 id=&#34;mathematical-modeling&#34;&gt;Mathematical modeling&lt;/h2&gt;
-
-&lt;p&gt;Applied math is always my passion. I have been taking on various mathematical modeling challenges
-since undergrad. I had won top awards in series of most prestigious contests, both internationally and
-domestically. My team was Outstanding Winner (ranked top 3 among 2,254 teams) in MCM
-(Mathematical Contest in Modeling) of USA in 2010. I also won the First Class Prize in Undergraduate
-Mathmatical Contest in Modeling in China and First Class Prize in Advanced Mathematics Contest in
-Zhejiang Province in 2008 and 2009, respectively.
-My pursuit in applied math and endeavors to thoroughly comprehend mathematical concepts and
-modelling tools culminate in the book “Essentials of Mathematical methods”, which consists of more
-than 50 chapters (2,000+ pages) surveying major aspects of applied math in science and engineering.
-Spanning from/…&lt;/p&gt;
-
-&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>/misc/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/misc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>/research/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/research/</guid>
-      <description>
-
-&lt;h2 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#robotAI&#34;&gt;Applied AI Algorithms for Micro/Nano-Robot Systems&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#robotAI-SingleAgent&#34;&gt;Single-agent Systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#robotAI-MultiAgent2D&#34;&gt;Multi-agent Systems (2D)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#robotAI-MultiAgent3D&#34;&gt;Multi-agent Systems (3D)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#robotAI-DistributedMultiAgent&#34;&gt;Distributed Multi-agent Systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#AIAlgo&#34;&gt;Deep reinforcement learning algorithms&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#StochSystem&#34;&gt;Applied optimal control and estimation in stochastic systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#SimulationAlgo&#34;&gt;Novel simulation algorithms for stochastic physical systems&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#StochPhysicalSystem&#34;&gt;Modeling stochastic physical systems&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;ai-for-colloidal-robots-a-name-robotai-a&#34;&gt;AI for colloidal robots &lt;a name=&#34;robotAI&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
-
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/robot/AIicon2.png&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h4 id=&#34;single-agent-system-a-name-robotai-singleagent-a&#34;&gt;Single-agent System&lt;a name=&#34;robotAI-SingleAgent&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/b8yFWW_sRZU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;Equipping micro-/nanoscale colloidal robots with artificial intelligence such that they can efficiently navigate in unknown complex environments could dramatically impact their use in emerging applications like precision surgery and targeted drug delivery. Here we develop a model-free deep reinforcement learning algorithm that can train colloidal robots to learn effective navigation strategies in unknown environments with random obstacles. We employed a deep neural network archecture that enables the robot to mimic animal navigation decision-making by directly processing raw sensor input and decomposing long-range navigations to short-range ones. We show that trained robot agents learn to make navigation decisions regarding both obstacle avoidance and travel time minimization, based solely on local sensory inputs without prior knowledge of the global environment. Such agents with biologically inspired mechanisms can acquire competitive navigation capabilities in large-scale, complex environments containing obstacles of diverse shapes, sizes, and configurations. This study illustrates the potential of artificial intelligence to enable colloidal robots in extensive applications.
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/robot/DRLInterpretation.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;multi-agent-system-in-2d-a-name-robotai-multiagent2d-a&#34;&gt;Multi-agent System in 2D &lt;a name=&#34;robotAI-MultiAgent2D&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Controlling active colloidal particle swarms could enable useful microscopic functions in emerging applications at the interface of nanotechnology and robotics. Here, we present a computational study of controlling self-propelled colloidal particle propulsion speeds to cooperatively capture and transport cargo particles, which otherwise produce random dispersions. By sensing swarm and cargo coordinates, each particle’s speed is actuated according to a control policy based on multiagent assignment and path planning strategies that navigate stochastic particle trajectories to targets around cargo. Colloidal swarms are shown to dynamically cage cargo at their center via inward radial forces while simultaneously translating via directional forces. Speed, power, and efficiency of swarm tasks display emergent coupled dependences on swarm size and pair interactions and approach asymptotic limits indicating near-optimal performance. This scheme exploits unique interactions and stochastic dynamics in colloidal swarms to capture and transport microscopic cargo in a robust, stable, error-tolerant, and dynamic manner.&lt;/p&gt;
-
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/robot/antMultiagent_demo.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/ofibeCz5QM4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;h4 id=&#34;multi-agent-system-in-3d-a-name-robotai-multiagent3d-a&#34;&gt;Multi-agent System in 3D &lt;a name=&#34;robotAI-MultiAgent3D&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Designing intelligent nano-robots that can autonomously navigate in complex and crowded environments such as tissues and blood vessels can offer tremendous possibilities in biomedical applications. Here we report a hierarchical control scheme that enables a nano-robot to efficiently navigate in a blood environment. Our control scheme consists of a high-level controller setting short-ranged dynamic targets to guide the robot to follow a desired path and a low-level deep reinforcement learning controller (DRL) responsible for navigating towards to these dynamic guiding targets. The DRL controller minimally mimics the visual navigation of intelligent species and maps a coarse 3D sensation of the robot’s local environment to control decisions. From extensive navigation data,  the DRL controller is capable of learning competitive, robust, generalizable navigation strategies in free space and in confined environments with red blood cells. Once deployed in blood vessels, the controlled robot can efficiently navigate in blood vessels with different concentrations, vessel size, and RBC configurations. This study identifies the key elements in designing control systems for autonomous nanorobots and illustrates the potential of artificial intelligence for biomedical applications.
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/robot/robotBloodDemo.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;distributed-multi-agent-system-a-name-robotai-distributedmultiagent-a&#34;&gt;Distributed Multi-agent System&lt;a name=&#34;robotAI-DistributedMultiAgent&#34;&gt;&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;Assembly large number (&amp;gt;1000) of active colloidal particles into ordered structures can enable applications not attainable in small colloids systems (&amp;lt;100), yet on the other hand poses challenges of developing robust and efficient coordination and control strategies.  Here we report a decentralized and asynchronized control strategy that can enable thousands of active particles to precisely assemble into predefined shapes and perform in-place shape transformations. This is enabled by equipping individual particles with the capability to make decisions on sequential assembly order and navigation through complex environments formed during assembly processes. Using deep reinforcement learning, distributed intelligent particle agents are trained to learn hierarchical navigation strategy across different length scales based on local sensor information at different granularity. Our results demonstrate a flexible and scalable algorithmic framework to control large number of active particles collective assembly behavior in a robust, error-tolerant, reconfigurable and dynamic manner.
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/robot/LargeScaleRobotAssembly.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;deep-reinforcement-learning-algorithms-a-name-aialgo-a&#34;&gt;Deep reinforcement learning algorithms&lt;a name=&#34;AIAlgo&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;Deep reinforcement learning for high dimensional, hierarchical control tasks usually requires the use of complex neural networks as functional approximators, which can lead to inefficiency, instability and even divergence in the training process. Here, we introduce stacked deep Q learning (SDQL), a flexible modularized deep reinforcement learning architecture, that can enable finding of optimal control policy of control tasks consisting of multiple linear stages in a stable and efficient way. SDQL exploits the linear stage structure by approximating the Q function via a collection of deep Q sub-networks stacking along an axis marking the stage-wise progress of the whole task. By back-propagating the learned state values from later stages to earlier stages, all sub-networks co-adapt to maximize the total reward of the whole task, although each sub-network is responsible for learning optimal control policy for its own stage. This modularized architecture offers considerable flexibility in terms of environment and policy modeling, as it allows choices of different state spaces, action spaces, reward structures, and Q networks for each stage, Further, the backward stage-wise training procedure of SDQL can offers additional transparency, stability, and flexibility to the training process, thus facilitating model fine-tuning and hyper-parameter search. We demonstrate that SDQL is capable of learning competitive strategies for problems with characteristics of high-dimensional state space, heterogeneous action space(both discrete and continuous), multiple scales, and sparse and delayed rewards.
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/DRLAlgorithms/Architecutre.png&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;applied-optimal-control-and-estimation-in-stochastic-systems-a-name-stochsystem-a&#34;&gt;Applied optimal control and estimation in stochastic systems&lt;a name=&#34;StochSystem&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;Perfectly ordered states are targets in diverse molecular to microscale systems involving, for example, atomic clusters, protein folding, protein crystallization, nanoparticle superlattices, and colloidal crystals. However, there is no obvious approach to control the assembly of perfectly ordered global free energy minimum structures; near-equilibrium assembly is impractically slow, and faster out-of-equilibrium processes generally terminate in defective states. Here, we demonstrate the rapid and robust assembly of perfect crystals by navigating kinetic bottlenecks using closed-loop control of electric field mediated crystallization of colloidal particles. An optimal policy is computed with dynamic programming using a reaction coordinate based dynamic model. By tracking real-time stochastic particle configurations and adjusting applied fields via feedback, the evolution of unassembled particles is guided through polycrystalline states into single domain crystals. This approach to controlling the assembly of a target structure is based on general principles that make it applicable to a broad range of processes from nano- to microscales (where tuning a global thermodynamic variable yields temporal control over thermal sampling of different states via their relative free energies).
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/optimalColloidalAssembly/optimalColloidalAssembly.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;noval-simulation-algorithms-for-stochastic-physical-systems-a-name-simulationalgo-a&#34;&gt;Noval simulation algorithms for stochastic physical systems&lt;a name=&#34;SimulationAlgo&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;Colloidal rod diffusion near a wall is modeled and simulated based on a constrained Stokesian dynamic model of chains-of-spheres. By modeling colloidal rods as chains-of-spheres, complete diffusion tensors are computed for colloidal rods in bulk media and near interfaces, including hydrodynamic interactions, translation-rotation coupling, and all diffusion modes in the particle and lab frames. Simulated trajectories based on the chain-of-spheres diffusion tensor are quantified in terms of typical experimental quantities such as mean squared positional and angular displacements as well as autocorrelation functions. Theoretical expressions are reported to predict measured average diffusivities as well as the crossover from short-time anisotropic translational diffusion along the rod’s major axis to isotropic diffusion. Diffusion modes are quantified in terms of closed form empirical fits to model results to aid their use in interpretation and prediction of experiments involving colloidal rod diffusion in interfacial and confined systems.&lt;/p&gt;
-
-&lt;p&gt;Brownian dynamics of colloidal particles on complex curved surfaces has found important applications in diverse physical, chemical, and biological processes. However, most Brownian dynamics simulation algorithms focus on relatively simple curved surfaces that can be analytically parameterized. In this work, we develop an algorithm to enable Brownian dynamics simulation on extremely complex curved surfaces. We approximate complex curved surfaces with triangle mesh surfaces and employ a novel scheme to perform particle simulation on these triangle mesh surfaces. Our algorithm computes forces and velocities of particles in global coordinates but updates their positions in local coordinates, which combines the strengths from both global and local simulation schemes. We benchmark the proposed algorithm with theory and then simulate Brownian dynamics of both single and multiple particles on torus and knot surfaces. The results show that our method captures well diffusion, transport, and crystallization of colloidal particles on complex surfaces with nontrivial topology. This study offers an efficient strategy for elucidating the impact of curvature, geometry, and topology on particle dynamics and microstructure formation in complex environments.&lt;/p&gt;
-
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/simulation/BrownianManifold.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-
-&lt;h3 id=&#34;modeling-stochastic-physical-systems-a-name-stochphysicalsystem-a&#34;&gt;Modeling stochastic physical systems&lt;a name=&#34;StochPhysicalSystem&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
-
-
-
-
-  
-
-&lt;figure&gt;
-
-&lt;img src=&#34;/img/physicalSystem/physicalSystemModeling.jpg&#34; /&gt;
-
-
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
-      <link></link>
+      <link>/mathbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid></guid>
-      <description></description>
+      <guid>/mathbook/</guid>
+      <description>&lt;p&gt;���-�-�-�
+�t�i�t�l�e�:� �
+�s�u�m�m�a�r�y�:� �H�e�r�e� �w�e� �d�e�s�c�r�i�b�e� �h�o�w� �t�o� �a�d�d� �a� �p�a�g�e� �t�o� �y�o�u�r� �s�i�t�e�.�
+�d�a�t�e�:� �&amp;ldquo;�2�0�1�8�-�0�6�-�2�8�T�0�0�:�0�0�:�0�0�Z�Y�Y�&amp;ldquo;�
+�
+�r�e�a�d�i�n�g�_�t�i�m�e�:� �f�a�l�s�e� � �#� �S�h�o�w� �e�s�t�i�m�a�t�e�d� �r�e�a�d�i�n�g� �t�i�m�e�?�
+�s�h�a�r�e�:� �f�a�l�s�e� � �#� �S�h�o�w� �s�o�c�i�a�l� �s�h�a�r�i�n�g� �l�i�n�k�s�?�
+�p�r�o�f�i�l�e�:� �f�a�l�s�e� � �#� �S�h�o�w� �a�u�t�h�o�r� �p�r�o�f�i�l�e�?�
+�c�o�m�m�e�n�t�s�:� �f�a�l�s�e� � �#� �S�h�o�w� �c�o�m�m�e�n�t�s�?�
+�
+�#� �O�p�t�i�o�n�a�l� �h�e�a�d�e�r� �i�m�a�g�e� �(�r�e�l�a�t�i�v�e� �t�o� �&lt;code&gt;�s�t�a�t�i�c�/�i�m�g�/�&lt;/code&gt;� �f�o�l�d�e�r�)�.�
+�h�e�a�d�e�r�:�
+� � �c�a�p�t�i�o�n�:� �&amp;ldquo;�&amp;rdquo;�
+� � �i�m�a�g�e�:� �&amp;ldquo;�i�m�a�g�e�.�j�p�g�&amp;rdquo;�
+�-�-�-�
+�
+�
+�
+�
+�#�#� �*�*�E�s�s�e�n�t�i�a�l�s� �o�f� �M�a�t�h�e�m�a�t�i�c�a�l� �M�e�t�h�o�d�s�*�*�
+�
+�
+�{�{�&amp;lt;� �f�i�g�u�r�e� �l�i�b�r�a�r�y�=�&amp;ldquo;�t�r�u�e�&amp;rdquo;� �s�r�c�=�&amp;ldquo;�m�a�t�h�b�o�o�k�/�m�a�t�h�b�o�o�k�.�P�N�G�&amp;rdquo;� �t�i�t�l�e�=�&amp;ldquo;�&amp;rdquo;� �l�i�g�h�t�b�o�x�=�&amp;ldquo;�t�r�u�e�&amp;rdquo;� �&amp;gt;�}�}�
+�
+�
+�#�#�#�#� �A�b�o�u�t� �t�h�i�s� �b�o�o�k�
+�
+�
+�
+�
+�
+�
+�A�l�s�o� �c�h�e�c�k� �o�u�t� �[�g�i�t�h�u�b�]�(�h�t�t�p�s�:�/�/�g�i�t�h�u�b�.�c�o�m�/�y�a�n�g�y�u�t�u�/�E�s�s�e�n�t�i�a�l�M�a�t�h�)� �f�o�r� �u�p�d�a�t�e�s� �a�n�d� �i�s�s�u�e�s�.�
+�
+�
+�
+�
+�#�#�#�#� �D�o�w�n�l�o�a�d� �t�h�e� �w�h�o�l�e� �b�o�o�k�
+�{�{�%� �s�t�a�t�i�c�r�e�f� �&amp;ldquo;�f�i�l�e�s�/�M�a�t�h�B�o�o�k�.�p�d�f�&amp;rdquo;� �&amp;ldquo;�n�e�w�t�a�b�&amp;rdquo;� �%�}�}�E�s�s�e�n�t�i�a�l�s� �o�f� �M�a�t�h�e�m�a�t�i�c�a�l� �M�e�t�h�o�d�s�{�{�%� �/�s�t�a�t�i�c�r�e�f� �%�}�}� �
+�
+�#�#�#�#� �D�o�w�n�l�o�a�d� �s�e�l�e�c�t�e�d� �t�o�p�i�c�s�
+�{�{�%� �s�t�a�t�i�c�r�e�f� �&amp;ldquo;�f�i�l�e�s�/�f�i�n�a�n�c�e�B�o�o�k�.�p�d�f�&amp;rdquo;� �&amp;ldquo;�n�e�w�t�a�b�&amp;rdquo;� �%�}�}�L�i�n�e�a�r� �A�l�g�e�b�r�a� �a�n�d� �M�a�t�r�i�x� �A�n�a�l�y�s�i�s�{�{�%� �/�s�t�a�t�i�c�r�e�f� �%�}�}� �\�
+�{�{�%� �s�t�a�t�i�c�r�e�f� �&amp;ldquo;�f�i�l�e�s�/�f�i�n�a�n�c�e�B�o�o�k�.�p�d�f�&amp;rdquo;� �&amp;ldquo;�n�e�w�t�a�b�&amp;rdquo;� �%�}�}�L�i�n�e�a�r� �R�e�g�r�e�s�s�i�o�n� �A�n�a�l�y�s�i�s�{�{�%� �/�s�t�a�t�i�c�r�e�f� �%�}�}� �\�
+�{�{�%� �s�t�a�t�i�c�r�e�f� �&amp;ldquo;�f�i�l�e�s�/�f�i�n�a�n�c�e�B�o�o�k�.�p�d�f�&amp;rdquo;� �&amp;ldquo;�n�e�w�t�a�b�&amp;rdquo;� �%�}�}�P�r�o�b�a�b�i�l�i�t�y� �a�n�d� �S�t�a�t�i�s�t�i�c�a�l� �E�s�t�i�m�a�t�i�o�n�{�{�%� �/�s�t�a�t�i�c�r�e�f� �%�}�}� �\�
+�{�{�%� �s�t�a�t�i�c�r�e�f� �&amp;ldquo;�f�i�l�e�s�/�f�i�n�a�n�c�e�B�o�o�k�.�p�d�f�&amp;rdquo;� �&amp;ldquo;�n�e�w�t�a�b�&amp;rdquo;� �%�}�}�M�a�r�k�o�v� �C�h�a�i�n� �a�n�d� �R�a�n�d�o�m� �W�a�l�k�{�{�%� �/�s�t�a�t�i�c�r�e�f� �%�}�}� �\�
+�{�{�%� �s�t�a�t�i�c�r�e�f� �&amp;ldquo;�f�i�l�e�s�/�f�i�n�a�n�c�e�B�o�o�k�.�p�d�f�&amp;rdquo;� �&amp;ldquo;�n�e�w�t�a�b�&amp;rdquo;� �%�}�}�S�u�p�e�r�v�i�s�e�d� �s�t�i�s�t�i�c�a�l� �l�e�a�r�n�i�n�g�{�{�%� �/�s�t�a�t�i�c�r�e�f� �%�}�}� �\�
+�{�{�%� �s�t�a�t�i�c�r�e�f� �&amp;ldquo;�f�i�l�e�s�/�f�i�n�a�n�c�e�B�o�o�k�.�p�d�f�&amp;rdquo;� �&amp;ldquo;�n�e�w�t�a�b�&amp;rdquo;� �%�}�}�(�D�e�e�p�)� �R�e�i�n�f�o�r�c�e�m�e�n�t� �L�e�a�r�n�i�n�g�{�{�%� �/�s�t�a�t�i�c�r�e�f� �%�}�}� �\�
+�
+�
+�
+�
+�
+�
+�
+�#�#�#� �T�a�b�l�e� �o�f� �C�o�n�t�e�n�t�s�
+�
+�#�#�#�#� �I� �M�a�t�h�e�m�a�t�i�c�a�l� �F�o�u�n�d�a�t�i�o�n�s�
+�*� �S�e�t�s�,� �S�e�q�u�e�n�c�e�s� �a�n�d� �S�e�r�i�e�s�
+�*� �M�e�t�r�i�c� �S�p�a�c�e� �a�n�d� �T�o�p�o�l�o�g�i�c�a�l� �S�p�a�c�e�
+�*� �A�d�v�a�n�c�e�d� �C�a�l�c�u�l�u�s�
+�*� �L�i�n�e�a�r� �A�l�g�e�b�r�a� �a�n�d� �M�a�t�r�i�x� �A�n�a�l�y�s�i�s� �
+�*� �F�u�n�c�t�i�o�n� �S�e�q�u�e�n�c�e�s�,� �S�e�r�i�e�s� �a�n�d� �A�p�p�r�o�x�i�m�a�t�i�o�n� �
+�*� �B�a�s�i�c� �F�u�n�c�t�i�o�n�a�l� �A�n�a�l�y�s�i�s� �
+�
+�#�#�#�#� �I�I� �M�a�t�h�e�m�a�t�i�c�a�l� �O�p�t�i�m�i�z�a�t�i�o�n� �M�e�t�h�o�d�s�
+� �
+�*� �U�n�c�o�n�s�t�r�a�i�n�e�d� �N�o�n�l�i�n�e�a�r� �O�p�t�i�m�i�z�a�t�i�o�n�
+�*� �C�o�n�s�t�r�a�i�n�e�d� �N�o�n�l�i�n�e�a�r� �O�p�t�i�m�i�z�a�t�i�o�n�
+�*� �L�i�n�e�a�r� �O�p�t�i�m�i�z�a�t�i�o�n�
+�*� �C�o�n�v�e�x� �A�n�a�l�y�s�i�s� �a�n�d� �C�o�n�v�e�x� �O�p�t�i�m�i�z�a�t�i�o�n�
+�*� �B�a�s�i�c� �G�a�m�e� �T�h�e�o�r�y� �
+�
+�
+�#�#�#�#� �I�I�I� �C�l�a�s�s�i�c�a�l� �S�t�a�t�i�s�t�i�c�a�l� �M�e�t�h�o�d�s�
+�*� �T�h�e�o�r�y� �o�f� �P�r�o�b�a�b�i�l�i�t�y� �
+�*� �S�t�a�t�i�s�t�i�c�a�l� �D�i�s�t�r�i�b�u�t�i�o�n�s� �
+�*� �S�t�a�t�i�s�t�i�c�a�l� �E�s�t�i�m�a�t�i�o�n� �T�h�e�o�r�y� �
+�*� �M�u�l�t�i�v�a�r�i�a�t�e� �S�t�a�t�i�s�t�i�c�a�l� �M�e�t�h�o�d�s�
+�*� �L�i�n�e�a�r� �R�e�g�r�e�s�s�i�o�n� �A�n�a�l�y�s�i�s� �
+�*� �M�o�n�t�e� �C�a�r�l�o� �M�e�t�h�o�d�s�
+�
+�#�#�#�#� �I�V� �D�y�n�a�m�i�c�s� �M�o�d�e�l�i�n�g� �M�e�t�h�o�d�s�
+�*� �M�o�d�e�l�s� �a�n�d� �e�s�t�i�m�a�t�i�o�n� �i�n� �d�y�n�a�m�i�c�a�l� �s�y�s�t�e�m�s� �
+�*� �N�u�m�e�r�i�c�a�l� �D�i�f�f�e�r�e�n�t�i�a�l� �E�q�u�a�t�i�o�n�s� �
+�*� �S�t�o�c�h�a�s�t�i�c� �P�r�o�c�e�s�s�
+�*� �S�t�o�c�h�a�s�t�i�c� �C�a�l�c�u�l�u�s�
+�*� �F�o�k�k�e�r�-�P�l�a�n�c�k� �E�q�u�a�t�i�o�n�
+�*� �M�a�r�k�o�v� �C�h�a�i�n� �a�n�d� �R�a�n�d�o�m� �W�a�l�k�
+�*� �T�i�m�e� �S�e�r�i�e�s� �A�n�a�l�y�s�i�s�
+�
+�#�#�#�#� �V� �S�t�a�t�i�s�t�i�c�a�l� �L�e�a�r�n�i�n�g� �M�e�t�h�o�d�s�
+�*� �S�u�p�e�r�v�i�s�e�d� �L�e�a�r�n�i�n�g� �P�r�i�n�c�i�p�l�e�s� �a�n�d� �M�e�t�h�o�d�s� �
+�*� �L�i�n�e�a�r� �M�o�d�e�l�s� �f�o�r� �R�e�g�r�e�s�s�i�o�n� �
+�*� �L�i�n�e�a�r� �M�o�d�e�l�s� �f�o�r� �C�l�a�s�s�i�f�i�c�a�t�i�o�n� �
+�*� �G�e�n�e�r�a�t�i�v�e� �M�o�d�e�l�s� �
+�*� �K� �N�e�a�r�e�s�t� �N�e�i�g�h�b�o�r�s�
+�*� �T�r�e�e� �M�e�t�h�o�d�s�
+�*� �E�n�s�e�m�b�l�e� �a�n�d� �B�o�o�s�t�i�n�g� �M�e�t�h�o�d�s� �
+�*� �U�n�s�u�p�e�r�v�i�s�e�d� �S�t�a�t�i�s�t�i�c�a�l� �L�e�a�r�n�i�n�g� �
+�*� �N�e�u�r�a�l� �N�e�t�w�o�r�k� �a�n�d� �D�e�e�p� �L�e�a�r�n�i�n�g�
+�
+�#�#�#�#� �V�I� �O�p�t�i�m�a�l� �C�o�n�t�r�o�l� �a�n�d� �R�e�i�n�f�o�r�c�e�m�e�n�t� �L�e�a�r�n�i�n�g� �M�e�t�h�o�d�s�
+�*� �C�l�a�s�s�i�c�a�l� �O�p�t�i�m�a�l� �C�o�n�t�r�l� �T�h�e�o�r�y�
+�*� �R�e�i�n�f�o�r�c�e�m�e�n�t� �L�e�a�r�n�i�n�g�
+�
+�#�#�#�#� �A�p�p�e�n�d�i�x�:� �S�u�p�p�l�e�m�e�n�t�a�l� �M�a�t�h�e�m�a�t�i�c�a�l� �F�a�c�t�s� �
+�
+�
+�
+�
+�
+�
+�
+�
+�
+�&lt;/p&gt;
+</description>
     </item>
     
     <item>
